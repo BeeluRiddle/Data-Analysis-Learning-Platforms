@@ -1,0 +1,976 @@
+Platform,Institution,Title,Level,Price,Language,Rating,n_Students,Type,Subject
+edX,edX,How to Learn Online,Beginner,49.0,English,4,124980,Self-paced on your time,Education & Teacher Training
+edX,The University of Michigan,Programming for Everybody (Getting Started with Python),Beginner,49.0,English,5,293864,Self-paced on your time,Computer Science
+edX,Harvard University,CS50's Introduction to Computer Science,Beginner,90.0,English,4,2442271,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,The Analytics Edge,Intermediate,199.0,English,4,129555,Instructor-led on a course schedule,Data Analysis & Statistics
+edX,"University of California, Berkeley",Marketing Analytics: Marketing Measurement Strategy,Beginner,249.0,English,3,81140,Self-paced on your time,Computer Science
+edX,University of Adelaide,Introduction to Project Management,Beginner,199.0,English,4,301793,Self-paced on your time,Business & Management
+edX,The University of Queensland,Leading High-Performing Teams,Intermediate,5.0,English,5,32847,Self-paced on your time,Communication
+edX,"University of California, Berkeley",The Foundations of Happiness at Work,Beginner,199.0,English,4,67073,Self-paced on your time,Business & Management
+edX,Curtin University,"Managing Study, Stress and Mental Health at University",Beginner,49.0,English,5,23061,Self-paced on your time,Health & Safety
+edX,Technische Universität München,Six Sigma: Define and Measure,Beginner,99.0,English,3,92411,Self-paced on your time,Business & Management
+edX,Harvard University,Fat Chance: Probability from the Ground Up,Beginner,49.0,English,4,66835,Self-paced on your time,Math
+edX,National Research Nuclear University,Chasing your Dream: How to End Procrastination and Get a Job You Love,Beginner,49.0,English,1,44711,Self-paced on your time,Communication
+edX,"University of California, Berkeley",Bitcoin and Cryptocurrencies,Beginner,99.0,English,2,83398,Self-paced on your time,Computer Science
+edX,The University of Queensland,English Grammar and Style,Beginner,99.0,English,3,0,Instructor-led on a course schedule,Humanities
+edX,SDG Academy,Ethics in Action,Intermediate,49.0,English,1,6366,Self-paced on your time,Ethics
+edX,University of Hong Kong,Introduction to FinTech,Beginner,199.0,English,2,72767,Self-paced on your time,Economics & Finance
+edX,Harvard University,Data Science: R Basics,Beginner,49.0,English,5,528782,Self-paced on your time,Data Analysis & Statistics
+edX,IBM,Python Basics for Data Science,Beginner,39.0,English,4,228809,Self-paced on your time,Data Analysis & Statistics
+edX,Wageningen University & Research,The Science of Beer,Beginner,49.0,English,3,39085,Self-paced on your time,Food & Nutrition
+edX,Boston University,Strategic Social Media Marketing,Advanced,399.0,English,5,103640,Instructor-led on a course schedule,Business & Management
+edX,Harvard University,CS50's Introduction to Artificial Intelligence with Python,Beginner,199.0,English,4,258006,Self-paced on your time,Computer Science
+edX,Harvard University,CS50's Introduction to Game Development,Intermediate,149.0,English,2,346748,Self-paced on your time,Computer Science
+edX,Harvard University,Rhetoric: The Art of Persuasive Writing and Public Speaking,Beginner,99.0,English,5,320225,Self-paced on your time,Humanities
+edX,Harvard University,CS50's Web Programming with Python and JavaScript,Intermediate,90.0,English,5,698950,Self-paced on your time,Computer Science
+edX,Harvard University,Contract Law: From Trust to Promise to Contract,Intermediate,125.0,English,4,414181,Self-paced on your time,Business & Management
+edX,Harvard University,"Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron",Beginner,99.0,English,1,380167,Self-paced on your time,Biology & Life Sciences
+edX,Harvard University,Justice,Beginner,99.0,English,4,392588,Self-paced on your time,Humanities
+edX,Harvard University,Data Science: Machine Learning,Beginner,49.0,English,5,276209,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,Child Protection: Children's Rights in Theory and Practice,Beginner,99.0,English,4,212453,Self-paced on your time,Social Sciences
+edX,The University of Queensland,IELTS Academic Test Preparation,Beginner,99.0,English,2,1103777,Self-paced on your time,Communication
+edX,Harvard University,The Architectural Imagination,Beginner,99.0,English,5,406181,Self-paced on your time,Architecture
+edX,Educational Testing Service,TOEFL® Test Preparation: The Insider’s Guide,Beginner,49.0,English,4,1022489,Self-paced on your time,Communication
+edX,Harvard University,Principles of Biochemistry,Intermediate,199.0,English,4,257600,Self-paced on your time,Medicine
+edX,Harvard University,Using Python for Research,Intermediate,99.0,English,3,262183,Self-paced on your time,Computer Science
+edX,Harvard University,Hinduism Through Its Scriptures,Beginner,99.0,English,5,140782,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,Basic Spanish 1: Getting Started,Beginner,40.0,English,4,400169,Self-paced on your time,Communication
+edX,Harvard University,The Health Effects of Climate Change,Beginner,99.0,English,2,110024,Self-paced on your time,Environmental Studies
+edX,Universidades Anáhuac,Inglés básico: conversacional y networking,Beginner,49.0,Español,4,79671,Self-paced on your time,Business & Management
+edX,Harvard University,Statistics and R,Intermediate,249.0,English,3,314586,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry),Beginner,199.0,English,3,145011,Self-paced on your time,Chemistry
+edX,Harvard University,Pyramids of Giza: Ancient Egyptian Art and Archaeology,Beginner,99.0,English,1,123870,Self-paced on your time,Art & Culture
+edX,Harvard University,"PredictionX: Omens, Oracles & Prophecies",Beginner,25.0,English,2,91566,Self-paced on your time,Social Sciences
+edX,Universitat Politècnica de Valencia,Excel: Fundamentos y herramientas,Beginner,50.0,Español,4,284279,Self-paced on your time,Computer Science
+edX,Harvard University,Lessons from Ebola: Preventing the Next Pandemic,Beginner,49.0,English,4,91983,Self-paced on your time,Social Sciences
+edX,Harvard University,Improving Global Health: Focusing on Quality and Safety,Intermediate,99.0,English,2,127353,Self-paced on your time,Social Sciences
+edX,Harvard University,CS50 for Lawyers,Beginner,99.0,English,3,87336,Self-paced on your time,Computer Science
+edX,Harvard University,Data Science: Visualization,Beginner,49.0,English,4,171258,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,Christianity Through Its Scriptures,Beginner,99.0,English,5,125051,Self-paced on your time,Humanities
+edX,"University of California, Berkeley",The Science of Happiness,Beginner,169.0,English,4,475614,Self-paced on your time,Social Sciences
+edX,Harvard University,Leaders of Learning,Beginner,99.0,English,1,231131,Self-paced on your time,Communication
+edX,Harvard University,Exercising Leadership: Foundational Principles,Beginner,99.0,English,5,57814,Self-paced on your time,Business & Management
+edX,Harvard University,Data Science: Probability,Beginner,49.0,English,4,135859,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,Intermediate,70.0,English,2,117410,Self-paced on your time,Education & Teacher Training
+edX,Harvard University,"Prescription Drug Regulation, Cost, and Access: Current Controversies in Context",Beginner,99.0,English,4,80082,Self-paced on your time,Medicine
+edX,Harvard University,Introduction to Family Engagement in Education,Beginner,70.0,English,3,105146,Self-paced on your time,Education & Teacher Training
+edX,Wellesley College,Italian Language and Culture: Beginner (2019-2020),Beginner,49.0,Italiano,5,182462,Self-paced on your time,Language
+edX,Waseda University,Steps in Japanese for Beginners1 Part1,Beginner,49.0,English,5,53630,Self-paced on your time,Language
+edX,"University of California, Berkeley",How to Write an Essay,Beginner,49.0,English,4,306787,Self-paced on your time,Humanities
+edX,Harvard University,Energy Within Environmental Constraints,Beginner,99.0,English,4,95324,Self-paced on your time,Environmental Studies
+edX,Harvard University,Introduction to Probability,Intermediate,99.0,English,4,97291,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,AnatomyX: Musculoskeletal Cases,Intermediate,99.0,English,5,102075,Self-paced on your time,Medicine
+edX,Harvard University,Data Science: Inference and Modeling,Beginner,49.0,English,2,88256,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,Strengthening Community Health Worker Programs,Beginner,79.0,English,4,58626,Self-paced on your time,Health & Safety
+edX,Harvard University,Buddhism Through Its Scriptures,Beginner,99.0,English,4,182295,Self-paced on your time,Humanities
+edX,The Linux Foundation,Introduction to Linux,Beginner,199.0,English,4,642088,Self-paced on your time,Computer Science
+edX,Harvard University,"Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics",Beginner,99.0,English,2,81221,Self-paced on your time,Medicine
+edX,Harvard University,Shakespeare's Life and Work,Beginner,49.0,English,4,48938,Self-paced on your time,Humanities
+edX,Universidad Galileo,Marketing Digital: Content & Community Manager,Beginner,49.0,Español,3,112623,Self-paced on your time,Communication
+edX,Indian Institute of Management Bangalore,Accounting and Finance,Intermediate,150.0,English,4,88243,Self-paced on your time,Business & Management
+edX,The Georgia Institute of Technology,Computing in Python I: Fundamentals and Procedural Programming,Beginner,99.0,English,2,141966,Self-paced on your time,Computer Science
+edX,Wageningen University & Research,"Nutrition, Exercise and Sports",Intermediate,49.0,English,3,51679,Self-paced on your time,Food & Nutrition
+edX,Massachusetts Institute of Technology,Becoming an Entrepreneur,Beginner,69.0,English,2,104760,Self-paced on your time,Business & Management
+edX,Harvard University,"Religion, Conflict and Peace",Beginner,49.0,English,2,74060,Self-paced on your time,Humanities
+edX,Harvard University,"Tangible Things: Discovering History Through Artworks, Artifacts, Scientific Specimens, and the Stuff Around You",Beginner,49.0,English,3,61139,Self-paced on your time,Humanities
+edX,"University of California, Berkeley",Academic and Business Writing,Beginner,49.0,English,3,322701,Self-paced on your time,Communication
+edX,Harvard University,Data Science: Capstone,Beginner,99.0,English,4,62803,Self-paced on your time,Data Analysis & Statistics
+edX,New York University,Basics of Computing and Programming,Beginner,200.0,English,5,37045,Self-paced on your time,Computer Science
+edX,Harvard University,"Fundamentals of Neuroscience, Part 2: Neurons and Networks",Beginner,99.0,English,4,84874,Self-paced on your time,Biology & Life Sciences
+edX,The University of Michigan,Successful Negotiation: Essential Strategies and Skills,Beginner,49.0,English,4,31369,Self-paced on your time,Business & Management
+edX,Harvard University,Data Science: Linear Regression,Beginner,49.0,English,4,75310,Self-paced on your time,Data Analysis & Statistics
+edX,The World Wide Web Consortium (W3C),HTML5 and CSS Fundamentals,Beginner,199.0,English,4,335895,Self-paced on your time,Computer Science
+edX,Harvard University,Data Science: Productivity Tools,Beginner,49.0,English,5,66683,Self-paced on your time,Data Analysis & Statistics
+edX,Columbia University,Introduction to Corporate Finance,Beginner,225.0,English,4,98093,Self-paced on your time,Business & Management
+edX,Stanford University,Computer Science 101,Beginner,149.0,English,4,39540,Self-paced on your time,Computer Science
+edX,Harvard University,Data Science: Wrangling,Beginner,49.0,English,4,64584,Self-paced on your time,Data Analysis & Statistics
+edX,Cornell University,A Hands-on Introduction to Engineering Simulations,Intermediate,199.0,English,3,187138,Self-paced on your time,Engineering
+edX,IBM,AI for Everyone: Master the Basics,Beginner,49.0,English,2,49340,Self-paced on your time,Computer Science
+edX,The University of Queensland,The Psychology of Criminal Justice,Beginner,99.0,English,2,110086,Self-paced on your time,Humanities
+edX,IBM,Machine Learning with Python: A Practical Introduction,Beginner,39.0,English,4,80161,Self-paced on your time,Data Analysis & Statistics
+edX,IBM,Analyzing Data with Python,Beginner,39.0,English,5,94079,Self-paced on your time,Data Analysis & Statistics
+edX,Universitat Politècnica de Valencia,Excel: gestión de datos,Intermediate,75.0,Español,4,111785,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,Probability - The Science of Uncertainty and Data,Advanced,300.0,English,3,205615,Instructor-led on a course schedule,Data Analysis & Statistics
+edX,Harvard University,"Fundamentals of Neuroscience, Part 3: The Brain",Beginner,99.0,English,5,85034,Self-paced on your time,Biology & Life Sciences
+edX,Harvard University,Sikhism Through Its Scriptures,Beginner,99.0,English,5,44125,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,Upper-Intermediate English: Business and Modern Life,Intermediate,50.0,English,5,77991,Self-paced on your time,Language
+edX,Harvard University,Introduction to Probability,Intermediate,99.0,English,5,97291,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,Religious Literacy: Traditions and Scriptures,Beginner,99.0,English,4,96972,Self-paced on your time,Humanities
+edX,The University of Michigan,Programación para todos (empezando con Python),Beginner,49.0,Español,3,81004,Self-paced on your time,Computer Science
+edX,Davidson College,Analyzing and Visualizing Data with Power BI,Beginner,99.0,English,5,28879,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,High-Dimensional Data Analysis,Advanced,149.0,English,5,78443,Self-paced on your time,Data Analysis & Statistics
+edX,Berklee College of Music,Introduction To Music Theory,Beginner,49.0,English,5,67029,Self-paced on your time,Humanities
+edX,The Hong Kong Polytechnic University,Human Anatomy,Beginner,139.0,English,5,126850,Self-paced on your time,Medicine
+edX,Harvard University,"CitiesX: The Past, Present and Future of Urban Life",Beginner,99.0,English,1,76874,Self-paced on your time,Social Sciences
+edX,Harvard University,The Path to Happiness: What Chinese Philosophy Teaches us about the Good Life,Beginner,99.0,English,3,24208,Self-paced on your time,Philosophy & Ethics
+edX,Massachusetts Institute of Technology,Entrepreneurship 101: Who is your customer?,Beginner,49.0,English,1,41838,Self-paced on your time,Business & Management
+edX,Harvard University,"U.S. Public Policy: Social, Economic, and Foreign Policies",Beginner,49.0,English,4,44045,Self-paced on your time,Social Sciences
+edX,Massachusetts Institute of Technology,Machine Learning with Python: from Linear Models to Deep Learning,Advanced,300.0,English,5,85561,Instructor-led on a course schedule,Computer Science
+edX,IBM,Introduction to Data Science,Beginner,39.0,English,3,43766,Self-paced on your time,Data Analysis & Statistics
+edX,Massachusetts Institute of Technology,Circuits and Electronics 1: Basic Circuit Analysis,Beginner,169.0,English,4,52639,Self-paced on your time,Electronics
+edX,Indian Institute of Management Bangalore,Introduction to Investments,Intermediate,50.0,English,4,91788,Self-paced on your time,Business & Management
+edX,Harvard University,Improving Your Business Through a Culture of Health,Beginner,99.0,English,4,54136,Self-paced on your time,Business & Management
+edX,Harvard University,Introduction to Linear Models and Matrix Algebra,Intermediate,149.0,English,5,92004,Self-paced on your time,Math
+edX,Indian Institute of Management Bangalore,DO Your Venture: Entrepreneurship For Everyone,Beginner,150.0,English,1,61989,Self-paced on your time,Business & Management
+edX,Inter-American Development Bank,El valor de la creatividad y la innovación: La Economía Naranja,Beginner,25.0,Español,5,23728,Self-paced on your time,Art & Culture
+edX,Harvard University,Humanitarian Response to Conflict and Disaster,Beginner,99.0,English,4,119891,Self-paced on your time,Health & Safety
+edX,Harvard University,"Women Making History: Ten Objects, Many Stories",Beginner,99.0,English,4,38939,Self-paced on your time,History
+edX,Harvard University,Masterpieces of World Literature,Beginner,149.0,English,3,88789,Self-paced on your time,Literature
+edX,IBM,SQL for Data Science,Beginner,39.0,English,4,39184,Self-paced on your time,Data Analysis & Statistics
+edX,Universidad del Rosario,El cerebro y las emociones en el lenguaje,Beginner,49.0,Español,4,41279,Self-paced on your time,Communication
+edX,Harvard University,Science & Cooking: From Haute Cuisine to Soft Matter Science (physics),Beginner,169.0,English,3,62673,Self-paced on your time,Physics
+edX,Universitat Politècnica de Valencia,Python: aprender a programar,Beginner,49.0,Español,4,21613,Self-paced on your time,Computer Science
+edX,"University of California, Berkeley",Marketing Analytics: Competitive Analysis and Market Segmentation,Intermediate,249.0,English,4,70682,Self-paced on your time,Computer Science
+edX,Harvard University,MalariaX: Defeating Malaria from the Genes to the Globe,Intermediate,49.0,English,4,37598,Self-paced on your time,Biology & Life Sciences
+edX,Harvard University,Entrepreneurship in Emerging Economies,Beginner,125.0,English,2,113602,Self-paced on your time,Business & Management
+edX,The World Wide Web Consortium (W3C),JavaScript Introduction,Beginner,199.0,English,2,160112,Self-paced on your time,Computer Science
+edX,Indian Institute of Management Bangalore,People Management,Beginner,150.0,English,5,113592,Self-paced on your time,Business & Management
+edX,University of Washington,Using Email for Networking in English,Beginner,149.0,English,3,57208,Self-paced on your time,Language
+edX,Stanford University,Databases: Relational Databases and SQL,Beginner,50.0,English,5,20502,Self-paced on your time,Computer Science
+edX,Dartmouth_IMTx-Dartmouth College-IMT,C Programming: Getting Started,Beginner,49.0,English,5,104108,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,Supply Chain Analytics,Beginner,199.0,English,1,145049,Instructor-led on a course schedule,Business & Management
+edX,University of Pennsylvania,Programming for the Web with JavaScript,Intermediate,149.0,English,5,91406,Self-paced on your time,Computer Science
+edX,Harvard University,Introduction to Digital Humanities,Beginner,99.0,English,4,37501,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,Upper-Intermediate English: Business and Industry,Intermediate,50.0,English,3,103704,Self-paced on your time,Language
+edX,United Arab Emirates University,EmSAT English Preparation - Level 1,Beginner,49.0,English,4,29101,Self-paced on your time,Language
+edX,"The University of California, San Diego",Python for Data Science,Advanced,350.0,English,2,266978,Self-paced on your time,Data Analysis & Statistics
+edX,"University of California, Berkeley",Empathy and Emotional Intelligence at Work,Beginner,199.0,English,4,45867,Self-paced on your time,Business & Management
+edX,The University of Queensland,Design Thinking and Creativity for Innovation,Intermediate,5.0,English,3,47549,Self-paced on your time,Business & Management
+edX,Harvard University,China and Communism,Beginner,139.0,English,1,69104,Self-paced on your time,History
+edX,MandarinX,Mandarin Chinese Level 1,Beginner,149.0,English,5,56040,Self-paced on your time,Language
+edX,Massachusetts Institute of Technology,Introduction to Biology - The Secret of Life,Beginner,150.0,English,5,147512,Instructor-led on a course schedule,Biology & Life Sciences
+edX,Pontificia Universidad Javeriana,Photoshop: una herramienta para presentaciones innovadoras,Beginner,19.0,Español,4,22969,Self-paced on your time,Art & Culture
+edX,Harvard University,Causal Diagrams: Draw Your Assumptions Before Your Conclusions,Beginner,99.0,English,5,50949,Self-paced on your time,Data Analysis & Statistics
+edX,Tsinghua University,生活英语听说 | Conversational English Skills,Beginner,49.0,English,5,301585,Self-paced on your time,Communication
+edX,Harvard University,Shakespeare’s Othello: The Moor,Beginner,49.0,English,5,31868,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,Basic Spanish 2: One Step Further,Beginner,50.0,English,2,67687,Self-paced on your time,Language
+edX,The International Monetary Fund,Financial Market Analysis,Intermediate,25.0,English,5,37452,Self-paced on your time,Economics & Finance
+edX,Harvard University,CS50's Computer Science for Business Professionals,Beginner,90.0,English,2,73208,Self-paced on your time,Computer Science
+edX,Inter-American Development Bank,Gobierno Digital,Beginner,25.0,Español,4,18883,Self-paced on your time,Social Sciences
+edX,Universitat Politècnica de Valencia,Upper-Intermediate English: Business and Globalization,Intermediate,50.0,English,5,58532,Self-paced on your time,Language
+edX,Harvard University,The Opioid Crisis in America,Beginner,99.0,English,4,54805,Self-paced on your time,Medicine
+edX,Inter-American Development Bank,Gestión de Proyectos de Desarrollo,Beginner,49.0,Español,2,306286,Self-paced on your time,Business & Management
+edX,Stanford University,Statistical Learning,Beginner,50.0,English,5,27968,Self-paced on your time,Data Analysis & Statistics
+edX,The University of Queensland,Introduction to Social Psychology,Beginner,99.0,English,4,79365,Self-paced on your time,Humanities
+edX,Columbia University,Artificial Intelligence (AI),Advanced,249.0,English,4,265104,Instructor-led on a course schedule,Computer Science
+edX,Harvard University,American Government: Constitutional Foundations,Beginner,49.0,English,5,35504,Self-paced on your time,Social Sciences
+edX,Universitat Politècnica de Valencia,Introducción a la inversión bursátil,Beginner,50.0,Español,4,64261,Self-paced on your time,Economics & Finance
+edX,Harvard University,Japanese Books: From Manuscript to Print,Beginner,100.0,English,3,17581,Self-paced on your time,Art & Culture
+edX,Massachusetts Institute of Technology,Foundations of Modern Finance  I,Advanced,450.0,English,2,24108,Instructor-led on a course schedule,Economics & Finance
+edX,Indian Institute of Management Bangalore,Operations Management,Intermediate,150.0,English,5,126093,Self-paced on your time,Business & Management
+edX,Indian Institute of Management Bangalore,Marketing Management,Intermediate,150.0,English,1,80010,Self-paced on your time,Business & Management
+edX,Universidad Nacional de Córdoba,Marketing enfocado en la estrategia de servicios,Beginner,119.0,Español,4,24618,Self-paced on your time,Business & Management
+edX,University of British Columbia,Introduction to Marketing,Beginner,150.0,English,4,169126,Self-paced on your time,Business & Management
+edX,IITBombay,Programming Basics,Beginner,149.0,English,5,215059,Self-paced on your time,Computer Science
+edX,"The University of California, San Diego",Probability and Statistics in Data Science using Python,Advanced,350.0,English,2,106286,Self-paced on your time,Data Analysis & Statistics
+edX,The World Wide Web Consortium (W3C),HTML5 Coding Essentials and Best Practices,Intermediate,199.0,English,5,241287,Self-paced on your time,Computer Science
+edX,Harvard University,First Nights - Beethoven's 9th Symphony and the 19th Century Orchestra,Beginner,49.0,English,5,37426,Self-paced on your time,Humanities
+edX,Harvard University,Cell Biology: Mitochondria,Beginner,99.0,English,5,64142,Self-paced on your time,Biology & Life Sciences
+edX,Stanford University,"Algorithms: Design and Analysis, Part 1",Intermediate,149.0,English,2,20163,Self-paced on your time,Computer Science
+edX,Universitat Politècnica de Valencia,Introducción al Office 365,Beginner,75.0,Español,3,16470,Self-paced on your time,Computer Science
+edX,Imperial College London,Creative Thinking: Techniques and Tools for Success,Beginner,49.0,English,3,54787,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,Upper-Intermediate English: Business and Technology,Intermediate,50.0,English,5,47451,Self-paced on your time,Language
+edX,Harvard University,Shakespeare's Hamlet: The Ghost,Beginner,49.0,English,5,38331,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,FlashDiet: Aprende a comer sano,Beginner,50.0,Español,3,48105,Self-paced on your time,Food & Nutrition
+edX,Harvard University,CS50's Understanding Technology,Beginner,90.0,English,4,50030,Self-paced on your time,Computer Science
+edX,Delft University of Technology,Introduction to Aerospace Structures and Materials,Beginner,50.0,English,3,37126,Self-paced on your time,Engineering
+edX,IBM,Visualizing Data with Python,Intermediate,39.0,English,5,42101,Self-paced on your time,Data Analysis & Statistics
+edX,The Hong Kong Polytechnic University,Success: Practical Thinking Skills,Beginner,50.0,English,1,24414,Self-paced on your time,Philosophy & Ethics
+edX,The Hong Kong University of Science and Technology,English for Doing Business in Asia – Speaking,Beginner,60.0,English,5,68422,Self-paced on your time,Humanities
+edX,Wageningen University & Research,Nutrition and Health: Macronutrients and Overnutrition,Beginner,99.0,English,4,208582,Self-paced on your time,Biology & Life Sciences
+edX,Harvard University,"Contemporary China: The People's Republic, Taiwan, and Hong Kong",Beginner,139.0,English,3,66771,Self-paced on your time,History
+edX,The University of Queensland,Introduction to Clinical Psychology,Beginner,99.0,English,4,57234,Self-paced on your time,Humanities
+edX,Harvard University,Modern Masterpieces of World Literature,Beginner,99.0,English,3,48049,Self-paced on your time,Literature
+edX,Harvard University,"Citizen Politics in America: Public Opinion, Elections, Interest Groups, and the Media",Beginner,49.0,English,4,24259,Self-paced on your time,Social Sciences
+edX,"The University of Maryland, College Park-University System of Maryland",Applied Scrum for Agile Project Management,Advanced,199.0,English,3,55293,Self-paced on your time,Engineering
+edX,Indian Institute of Management Bangalore,Corporate Finance,Intermediate,150.0,English,5,62798,Self-paced on your time,Business & Management
+edX,Harvard University,Judaism Through Its Scriptures,Beginner,99.0,English,4,50540,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,Excel avanzado: importación y análisis de datos,Advanced,75.0,Español,4,47184,Self-paced on your time,Data Analysis & Statistics
+edX,The World Wide Web Consortium (W3C),CSS Basics,Beginner,199.0,English,4,95163,Self-paced on your time,Computer Science
+edX,IsraelX-Tel Aviv University,Unlocking Information Security: Part I,Intermediate,149.0,English,4,19905,Self-paced on your time,Computer Science
+edX,The University of Queensland,Becoming an Effective Leader,Intermediate,99.0,English,5,55937,Self-paced on your time,Communication
+edX,Curtin University,Digital Branding and Engagement,Intermediate,99.0,English,2,122977,Self-paced on your time,Communication
+edX,University of Washington,Introduction to Cybersecurity,Beginner,199.0,English,4,73021,Self-paced on your time,Computer Science
+edX,Tsinghua University,General Academic English|生活英语进阶,Beginner,49.0,English,3,17526,Self-paced on your time,Language
+edX,Universidad Nacional de Córdoba,Gestión de personas: Recursos Humanos,Beginner,119.0,Español,4,19687,Self-paced on your time,Business & Management
+edX,University of Oxford,From Poverty to Prosperity: Understanding Economic Development,Intermediate,149.0,English,3,91062,Self-paced on your time,Social Sciences
+edX,Doane University,Medical Terminology,Beginner,79.0,English,4,31354,Self-paced on your time,Biology & Life Sciences
+edX,Harvard University,Ancient Masterpieces of World Literature,Beginner,99.0,English,2,48899,Self-paced on your time,Literature
+edX,Harvard University,Shakespeare's The Merchant of Venice: Shylock,Beginner,49.0,English,2,23283,Self-paced on your time,Humanities
+edX,Universidades Anáhuac,Gestión del estrés y Mindfulness,Beginner,49.0,Español,2,15965,Self-paced on your time,Health & Safety
+edX,University of Toronto,Behavioural Economics in Action,Beginner,139.0,English,5,66764,Self-paced on your time,Business & Management
+edX,The University of Michigan,Finance for Everyone: Smart Tools for Decision-Making,Beginner,49.0,English,2,45029,Self-paced on your time,Business & Management
+edX,"University System of Maryland-The University of Maryland, College Park",Creating Innovative Business Models,Beginner,149.0,English,3,12227,Self-paced on your time,Business & Management
+edX,Massachusetts Institute of Technology,u.lab: Leading From the Emerging Future,Beginner,99.0,English,4,79424,Self-paced on your time,Business & Management
+edX,Delft University of Technology,Electric Cars: Introduction,Intermediate,50.0,English,5,56171,Self-paced on your time,Engineering
+edX,IBM,Inteligencia Artificial para todos: Domina los fundamentos,Beginner,49.0,Español,4,11764,Self-paced on your time,Computer Science
+edX,Columbia University,Marketing Analytics,Advanced,249.0,English,5,55228,Instructor-led on a course schedule,Business & Management
+edX,Universidad Autónoma de Madrid,Introducción a la Regulación Emocional basada en Mindfulness,Beginner,49.0,Español,4,20634,Self-paced on your time,Health & Safety
+edX,Rochester Institute of Technology,Design Thinking Fundamentals,Intermediate,299.0,English,5,56446,Self-paced on your time,Business & Management
+edX,Universitat Politècnica de Valencia,Basic Spanish 3: Getting there,Beginner,50.0,English,4,17569,Self-paced on your time,Language
+edX,Universidad Nacional de Córdoba,Mi propia huerta orgánica,Beginner,29.0,Español,4,11346,Self-paced on your time,Biology & Life Sciences
+edX,Universitat Politècnica de Valencia,Sustainability in Architecture: An Interdisciplinary Introduction,Intermediate,50.0,English,4,31352,Self-paced on your time,Architecture
+edX,Inter-American Development Bank,Gestión de riesgos en proyectos de desarrollo,Intermediate,25.0,Español,5,47676,Self-paced on your time,Business & Management
+edX,The University of Michigan,Python Data Structures,Beginner,49.0,English,5,36369,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,The Science and Business of Biotechnology,Intermediate,49.0,English,5,17039,Self-paced on your time,Business & Management
+edX,Imperial College Business School-Imperial College London,Finance Essentials,Beginner,79.0,English,2,63666,Self-paced on your time,Business & Management
+edX,Curtin University,Introduction to the Internet of Things (IoT),Beginner,149.0,English,3,89421,Self-paced on your time,Computer Science
+edX,Curtin University,'Talk to me': Improving mental health and suicide prevention in young adults,Beginner,139.0,English,2,11481,Self-paced on your time,Health & Safety
+edX,Stanford University,Disaster Medicine Training,Beginner,50.0,English,5,10937,Self-paced on your time,Medicine
+edX,Wageningen University & Research,Nutrition and Health: Human Microbiome,Beginner,49.0,English,1,44079,Self-paced on your time,Health & Safety
+edX,Indian Institute of Management Bangalore,Customer Relationship Management,Intermediate,50.0,English,1,53085,Self-paced on your time,Business & Management
+edX,Harvard University,Islam Through Its Scriptures,Beginner,99.0,English,4,65430,Self-paced on your time,Humanities
+edX,The Georgia Institute of Technology,Mechatronics Revolution: Fundamentals and Core Concepts,Beginner,149.0,English,3,11619,Self-paced on your time,Engineering
+edX,Indian Institute of Management Bangalore,Accounting for Decision-Making,Intermediate,150.0,English,4,57710,Self-paced on your time,Business & Management
+edX,Dartmouth_IMTx-Dartmouth College-IMT,C Programming: Language Foundations,Beginner,49.0,English,5,46400,Self-paced on your time,Computer Science
+edX,Inter-American Development Bank,Big Data sin misterios,Intermediate,25.0,Español,2,65564,Self-paced on your time,Data Analysis & Statistics
+edX,Catalyst,Becoming a Successful Leader (Inclusive Leadership Training),Beginner,49.0,English,5,215705,Self-paced on your time,Communication
+edX,"University of California, Berkeley","English for Journalists, Part 1",Intermediate,139.0,English,5,50847,Self-paced on your time,Communication
+edX,New York University,Introduction to Networking,Beginner,150.0,English,2,16134,Self-paced on your time,Computer Science
+edX,Imperial College Business School-Imperial College London,Accounting Essentials,Beginner,79.0,English,5,58463,Self-paced on your time,Business & Management
+edX,Universidad Carlos III de Madrid,Introduction to Java Programming: Starting to code in Java,Beginner,149.0,English,5,325554,Self-paced on your time,Computer Science
+edX,Universidad Carlos III de Madrid,European Paintings: From Leonardo to Rembrandt to Goya,Beginner,99.0,English,5,60734,Self-paced on your time,Humanities
+edX,Universidad Galileo,Java Programming Fundamentals,Intermediate,49.0,English,4,12042,Self-paced on your time,Engineering
+edX,University of Pennsylvania,"Hollywood: History, Industry, Art",Beginner,169.0,English,3,50033,Self-paced on your time,Communication
+edX,IBM,Data Science Tools,Beginner,39.0,English,3,15627,Self-paced on your time,Data Analysis & Statistics
+edX,Columbia University,Statistical Thinking for Data Science and Analytics,Beginner,99.0,English,4,198861,Self-paced on your time,Computer Science
+edX,The University of Queensland,Philosophy and Critical Thinking,Beginner,99.0,English,5,97175,Self-paced on your time,Humanities
+edX,Université catholique de Louvain,International Law,Advanced,150.0,English,2,91868,Self-paced on your time,Law
+edX,The University of Queensland,Tourism and Travel Management,Beginner,5.0,English,2,38503,Self-paced on your time,Business & Management
+edX,Rochester Institute of Technology,Project Management Life Cycle,Intermediate,150.0,English,4,120019,Self-paced on your time,Business & Management
+edX,Delft University of Technology,Solar Energy,Beginner,50.0,English,3,125069,Self-paced on your time,Engineering
+edX,Rochester Institute of Technology,Public Speaking,Beginner,199.0,English,4,10129,Self-paced on your time,Communication
+edX,Waseda University,Japanese Pronunciation for Communication,Beginner,99.0,日本語,4,62757,Self-paced on your time,Communication
+edX,"University of California, Berkeley",Mindfulness and Resilience to Stress at Work,Beginner,199.0,English,4,33414,Self-paced on your time,Business & Management
+edX,Delft University of Technology,Framing Your Communication to Inspire and Convince,Intermediate,125.0,English,5,49351,Self-paced on your time,Business & Management
+edX,University of British Columbia,Business Foundations,Beginner,150.0,English,3,55154,Self-paced on your time,Business & Management
+edX,Kyoto University,The Chemistry of Life,Beginner,49.0,English,5,78704,Self-paced on your time,Biology & Life Sciences
+edX,Wageningen University & Research,Nutrition and Health: Micronutrients and Malnutrition,Intermediate,99.0,English,4,78266,Self-paced on your time,Biology & Life Sciences
+edX,The Hong Kong University of Science and Technology,Digital Design,Beginner,50.0,English,4,12339,Self-paced on your time,Design
+edX,Columbia University,Machine Learning for Data Science and Analytics,Beginner,99.0,English,4,140419,Self-paced on your time,Computer Science
+edX,The University of Queensland,The Science of Everyday Thinking,Beginner,99.0,English,5,318399,Self-paced on your time,Business & Management
+edX,Inter-American Development Bank,Gestion de projets de développement,Intermediate,25.0,Français,4,41663,Self-paced on your time,Business & Management
+edX,"The University of Maryland, College Park-University System of Maryland",Product Management Fundamentals,Beginner,199.0,English,5,11913,Self-paced on your time,Business & Management
+edX,Université catholique de Louvain,International Human Rights Law,Advanced,150.0,English,4,74424,Self-paced on your time,Law
+edX,SDG Academy,The Best Start in Life: Early Childhood Development for Sustainable Development,Intermediate,49.0,English,3,23139,Self-paced on your time,Education & Teacher Training
+edX,IBM,Data Science and Machine Learning Capstone Project,Intermediate,99.0,English,3,21809,Self-paced on your time,Data Analysis & Statistics
+edX,The National University of Singapore,"Data Science for Construction, Architecture and Engineering",Beginner,199.0,English,4,11113,Self-paced on your time,Data Analysis & Statistics
+edX,Wageningen University & Research,"Nutrition, Heart Disease and Diabetes",Intermediate,99.0,English,2,24986,Self-paced on your time,Food & Nutrition
+edX,Inter-American Development Bank,Project Management for Development,Intermediate,49.0,English,5,62099,Self-paced on your time,Business & Management
+edX,The Linux Foundation,Introduction to Cloud Infrastructure Technologies,Beginner,169.0,English,4,86923,Self-paced on your time,Computer Science
+edX,Wageningen University & Research,"Circular Fashion: Design, Science and Value in a Sustainable Clothing Industry",Beginner,65.0,English,4,13566,Self-paced on your time,Art & Culture
+edX,Columbia University,Machine Learning,Advanced,249.0,English,3,150855,Instructor-led on a course schedule,Computer Science
+edX,Universitat Politècnica de Valencia,Introducción a la gestión de proyectos,Beginner,50.0,Español,2,98517,Self-paced on your time,Business & Management
+edX,Columbia University,Free Cash Flow Analysis,Beginner,225.0,English,2,36085,Self-paced on your time,Business & Management
+edX,Technische Universität München,Lean Production,Beginner,99.0,English,1,55926,Self-paced on your time,Business & Management
+edX,SchoolYourself,Introduction to Algebra,Beginner,139.0,English,2,131197,Self-paced on your time,Math
+edX,IITBombay,"LaTeX for Students, Engineers, and Scientists",Beginner,139.0,English,5,11823,Self-paced on your time,Engineering
+edX,Catalyst,Leading With Effective Communication (Inclusive Leadership Training),Beginner,50.0,English,1,107770,Self-paced on your time,Communication
+edX,The University of Michigan,Anatomy: Musculoskeletal and Integumentary Systems,Beginner,49.0,English,5,51969,Self-paced on your time,Biology & Life Sciences
+edX,Universidades Anáhuac,"Inglés empresarial: ventas, gestión y liderazgo",Beginner,49.0,English,5,10897,Instructor-led on a course schedule,Business & Management
+edX,The Wharton School of the University of Pennsylvania,Business Strategy from Wharton: Competitive Advantage,Intermediate,199.0,English,5,26675,Self-paced on your time,Business & Management
+edX,Universidades Anáhuac,Inteligencia emocional para el liderazgo efectivo y colaboración,Beginner,49.0,Español,5,14726,Self-paced on your time,Social Sciences
+edX,Universidad Autónoma de Madrid,Introducción al desarrollo de aplicaciones web,Beginner,49.0,Español,2,27757,Self-paced on your time,Computer Science
+edX,Technische Universität München,"Six Sigma: Analyze, Improve, Control",Beginner,99.0,English,5,56016,Self-paced on your time,Business & Management
+edX,Universidades Anáhuac,Introducción a la inteligencia emocional,Beginner,49.0,Español,3,18830,Self-paced on your time,Social Sciences
+edX,Massachusetts Institute of Technology,AP® Microeconomics,Beginner,49.0,English,5,53664,Self-paced on your time,Economics & Finance
+edX,University of Hong Kong,Engineering Calculus and Differential Equations,Beginner,50.0,English,4,21535,Self-paced on your time,Math
+edX,The University of Texas at Austin,Linear Algebra - Foundations to Frontiers,Intermediate,49.0,English,5,88570,Self-paced on your time,Computer Science
+edX,Tecnológico de Monterrey,Habilidades de negociación y comunicación efectiva,Beginner,149.0,Español,1,19614,Self-paced on your time,Business & Management
+edX,Tecnológico de Monterrey,Effective Communication for Today's Leader,Intermediate,149.0,English,5,8862,Self-paced on your time,Business & Management
+edX,Delft University of Technology,Electric Cars: Technology,Intermediate,50.0,English,5,40972,Self-paced on your time,Engineering
+edX,Massachusetts Institute of Technology,Site Planning Online,Intermediate,99.0,English,1,12948,Self-paced on your time,Design
+edX,The International Monetary Fund,Macroeconometric Forecasting,Intermediate,25.0,English,2,69358,Self-paced on your time,Economics & Finance
+edX,Inter-American Development Bank,Administración pública y fiscal: cómo se gestiona un gobierno,Beginner,25.0,Español,4,49189,Self-paced on your time,Economics & Finance
+edX,Red Hat,Fundamentals of Red Hat Enterprise Linux,Beginner,99.0,English,5,53788,Self-paced on your time,Computer Science
+edX,IITBombay,Algorithms,Intermediate,149.0,English,2,61722,Self-paced on your time,Computer Science
+edX,Harvard University,Calculus Applied!,Intermediate,99.0,English,4,54976,Self-paced on your time,Math
+edX,Arizona State University,Precalculus,Intermediate,49.0,English,3,55576,Self-paced on your time,Math
+edX,Universidad del Rosario,Fundamentos de anatomía y técnica quirúrgica básica,Beginner,49.0,Español,3,12133,Instructor-led on a course schedule,Medicine
+edX,University of British Columbia,Business Communications,Beginner,150.0,English,4,60713,Self-paced on your time,Business & Management
+edX,Wellesley College,Italian Language and Culture: Intermediate (2019-2020),Intermediate,49.0,Italiano,5,35058,Self-paced on your time,Language
+edX,Stanford University,International Women's Health and Human Rights,Beginner,50.0,English,5,9796,Self-paced on your time,Social Sciences
+edX,The Linux Foundation,Blockchain: Understanding Its Uses and Implications,Beginner,199.0,English,5,66769,Self-paced on your time,Business & Management
+edX,Imperial College London,"A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods",Intermediate,49.0,English,3,22366,Self-paced on your time,Math
+edX,"University of California, Berkeley",Blockchain Technology,Intermediate,99.0,English,3,55376,Self-paced on your time,Computer Science
+edX,Rolls-Royce,Basics of Power BI,Beginner,49.0,English,3,8314,Self-paced on your time,Data Analysis & Statistics
+edX,University of Washington,Preparing to Network in English,Beginner,149.0,English,4,34337,Self-paced on your time,Language
+edX,MandarinX,Mandarin Chinese Essentials,Beginner,99.0,English,3,36665,Self-paced on your time,Language
+edX,Amnesty International,Human Rights: The Rights of Refugees,Beginner,49.0,English,3,84270,Self-paced on your time,Humanities
+edX,Wits University,What do Architects and Urban Planners do?,Beginner,49.0,English,4,11046,Self-paced on your time,Architecture
+edX,Harvard University,"U.S. Political Institutions: Congress, Presidency, Courts, and Bureaucracy",Beginner,49.0,English,4,22723,Self-paced on your time,Social Sciences
+edX,Tecnológico de Monterrey,Negotiation Skills and Effective Communication,Intermediate,149.0,English,1,8146,Self-paced on your time,Business & Management
+edX,"University of California, Berkeley",AP® English Literature & Composition – Part 1: Stories,Beginner,49.0,English,4,15650,Self-paced on your time,Humanities
+edX,IsraelX-Tel Aviv University,"Viruses & How to Beat Them: Cells, Immunity, Vaccines",Beginner,149.0,English,5,28710,Self-paced on your time,Medicine
+edX,Inter-American Development Bank,Alianzas: un vehículo para lograr el desarrollo sostenible,Beginner,25.0,Español,1,17554,Self-paced on your time,Social Sciences
+edX,The Hong Kong Polytechnic University,Designing and Creating Skirts,Beginner,99.0,English,2,13954,Self-paced on your time,Design
+edX,edX,Cómo Aprender Online,Beginner,49.0,Español,4,7958,Self-paced on your time,Education & Teacher Training
+edX,The Georgia Institute of Technology,Computing in Python II: Control Structures,Beginner,99.0,English,4,31511,Self-paced on your time,Computer Science
+edX,Universidad Galileo,Facebook Ads: Cómo utilizar el poder de la publicidad en Facebook,Beginner,49.0,Español,3,29614,Self-paced on your time,Communication
+edX,"The University of California, San Diego",Machine Learning Fundamentals,Advanced,350.0,English,4,82008,Self-paced on your time,Data Analysis & Statistics
+edX,Delft University of Technology,Pre-University Calculus,Beginner,50.0,English,4,103224,Self-paced on your time,Math
+edX,Tsinghua University,Tsinghua Chinese: Start Talking with 1.3 Billion People,Beginner,49.0,English,5,58834,Self-paced on your time,Language
+edX,IBM,Deep Learning with Python and PyTorch,Intermediate,99.0,English,5,36195,Self-paced on your time,Data Analysis & Statistics
+edX,Universitat Politècnica de Valencia,Diseña presentaciones eficaces con Powerpoint,Beginner,50.0,Español,4,36663,Self-paced on your time,Computer Science
+edX,University of Adelaide,World of Wine: From Grape to Glass,Beginner,199.0,English,4,81839,Self-paced on your time,Science
+edX,SDG Academy,Sustainable Cities,Intermediate,49.0,English,4,16619,Self-paced on your time,Environmental Studies
+edX,The University of Queensland,Introduction to Developmental Psychology,Beginner,99.0,English,4,38060,Self-paced on your time,Humanities
+edX,Berklee College of Music,Creativity & Entrepreneurship,Beginner,49.0,English,5,69413,Self-paced on your time,Business & Management
+edX,Arizona State University,College Algebra and Problem Solving,Beginner,49.0,English,3,103010,Self-paced on your time,Math
+edX,Wits University,Academic writing for clarity and meaning,Beginner,49.0,English,5,16220,Self-paced on your time,Education & Teacher Training
+edX,The International Monetary Fund,Financial Development and Financial Inclusion,Intermediate,25.0,English,2,13853,Self-paced on your time,Economics & Finance
+edX,SDG Academy,Global Public Health,Intermediate,49.0,English,5,17273,Self-paced on your time,Health & Safety
+edX,The University of Texas at Austin,Embedded Systems - Shape The World: Microcontroller Input/Output,Intermediate,49.0,English,4,69182,Self-paced on your time,Computer Science
+edX,Wageningen University & Research,Introduction to Animal Behaviour,Beginner,49.0,English,5,42135,Self-paced on your time,Biology & Life Sciences
+edX,Delft University of Technology,Circular Economy: An Introduction,Beginner,50.0,English,4,50240,Self-paced on your time,Business & Management
+edX,The International Monetary Fund,Public Financial Management,Intermediate,25.0,English,2,23288,Self-paced on your time,Economics & Finance
+edX,The University of Michigan,Anatomy: Human Neuroanatomy,Beginner,49.0,English,3,49319,Self-paced on your time,Biology & Life Sciences
+edX,Universitat Politècnica de Valencia,Android: Introducción a la Programación,Beginner,50.0,Español,3,85786,Self-paced on your time,Computer Science
+edX,Harvard University,The Ancient Greek Hero,Beginner,99.0,English,4,51744,Instructor-led on a course schedule,Humanities
+edX,"The University of Maryland, College Park-University System of Maryland",Agile Leadership Principles and Practices,Advanced,199.0,English,4,31838,Self-paced on your time,Engineering
+edX,University of British Columbia,How to Code: Simple Data,Beginner,125.0,English,3,98113,Self-paced on your time,Computer Science
+edX,Curtin University,Cybersecurity and Privacy in the IoT,Beginner,199.0,English,5,21440,Self-paced on your time,Computer Science
+edX,Indian Institute of Management Bangalore,Strategic Management,Beginner,150.0,English,3,71085,Self-paced on your time,Business & Management
+edX,IBM,Introducción a la ciencia de datos y sus aplicaciones,Beginner,39.0,Español,4,7303,Self-paced on your time,Data Analysis & Statistics
+edX,Massachusetts Institute of Technology,"Biochemistry: Biomolecules, Methods, and Mechanisms",Intermediate,150.0,English,5,18692,Instructor-led on a course schedule,Biology & Life Sciences
+edX,Universidad Nacional de Córdoba,Astronomía Virtual,Beginner,29.0,Español,4,10500,Self-paced on your time,Science
+edX,Wageningen University & Research,Nutrition and Cancer,Intermediate,99.0,English,2,27144,Self-paced on your time,Food & Nutrition
+edX,Curtin University,Build your very first iOS app,Beginner,149.0,English,4,31570,Instructor-led on a course schedule,Computer Science
+edX,IITBombay,Object-Oriented Programming,Beginner,149.0,English,1,93633,Self-paced on your time,Computer Science
+edX,The Linux Foundation,Introduction to Jenkins,Beginner,199.0,English,4,7233,Self-paced on your time,Computer Science
+edX,University of Washington,Conducting an Informational Interview,Beginner,99.0,English,4,15594,Self-paced on your time,Language
+edX,Tecnológico de Monterrey,Liderazgo y comportamiento organizacional,Beginner,149.0,Español,4,21419,Self-paced on your time,Business & Management
+edX,New York University,Creative Coding,Beginner,249.0,English,3,18660,Instructor-led on a course schedule,Design
+edX,Universidad Galileo,Análisis estadístico con Excel,Beginner,49.0,Español,4,22717,Self-paced on your time,Data Analysis & Statistics
+edX,Universidad Autónoma de Madrid,Introducción a la Ingeniería del Software,Beginner,49.0,Español,4,17931,Self-paced on your time,Computer Science
+edX,"The University of California, San Diego",Computer Graphics,Intermediate,99.0,English,3,98553,Self-paced on your time,Computer Science
+edX,"University of California, Berkeley",Data Science: Computational Thinking with Python,Beginner,199.0,English,4,78232,Self-paced on your time,Computer Science
+edX,Tecnológico de Monterrey,Comunicación efectiva para el líder actual,Beginner,149.0,Español,4,18470,Self-paced on your time,Communication
+edX,Universidad del Rosario,Debate y argumentación,Beginner,49.0,Español,4,10954,Self-paced on your time,Humanities
+edX,IBM,Deep Learning with Tensorflow,Intermediate,99.0,English,3,37564,Self-paced on your time,Data Analysis & Statistics
+edX,IBM,Machine Learning (aprendizaje automático) con Python: una introducción práctica,Beginner,49.0,Español,4,39155,Self-paced on your time,Computer Science
+edX,University of Adelaide,Essential Human Biology: Cells and Tissues,Beginner,169.0,English,3,67961,Self-paced on your time,Medicine
+edX,Tsinghua University,"Writing, Presenting and Submitting Scientific Papers in English | 英文科技论文写作与学术报告",Intermediate,49.0,English,5,35720,Self-paced on your time,Communication
+edX,The Georgia Institute of Technology,Computing in Python III: Data Structures,Beginner,99.0,English,4,27239,Self-paced on your time,Computer Science
+edX,Rolls-Royce,Introduction to Internet of Things (IoT),Beginner,49.0,English,3,6703,Self-paced on your time,Data Analysis & Statistics
+edX,Wageningen University & Research,Nutrition and Health: Food Risks,Beginner,49.0,English,4,51493,Self-paced on your time,Biology & Life Sciences
+edX,Massachusetts Institute of Technology,Mechanics: Kinematics and Dynamics,Intermediate,49.0,English,4,35529,Self-paced on your time,Physics
+edX,The University of Michigan,Storytelling for Social Change,Beginner,49.0,English,4,30313,Self-paced on your time,Communication
+edX,The University of Michigan,Introduction to Data Analytics for Managers,Beginner,49.0,English,4,39113,Self-paced on your time,Business & Management
+edX,Massachusetts Institute of Technology,Qualitative Research Methods: Conversational Interviewing,Intermediate,49.0,English,5,21972,Self-paced on your time,Humanities
+edX,Rochester Institute of Technology,International Project Management,Advanced,150.0,English,4,45145,Self-paced on your time,Business & Management
+edX,University of Pennsylvania,Software Development Fundamentals,Intermediate,149.0,English,4,51402,Self-paced on your time,Computer Science
+edX,Harvard University,"First Nights - Stravinsky’s Rite of Spring: Modernism, Ballet, and Riots",Beginner,49.0,English,3,17484,Self-paced on your time,Humanities
+edX,Rochester Institute of Technology,Critical Thinking & Problem Solving,Beginner,199.0,English,4,6558,Self-paced on your time,Communication
+edX,Imperial College Business School-Imperial College London,Data Analysis Essentials,Beginner,79.0,English,4,42262,Self-paced on your time,Business & Management
+edX,Chalmers University of Technology,Master Control in Supply Chain Management and Logistics,Beginner,49.0,English,5,31326,Self-paced on your time,Business & Management
+edX,SDG Academy,Work and Employment for a Sustainable Future,Intermediate,49.0,English,5,6528,Self-paced on your time,Economics & Finance
+edX,IITBombay,Foundations of Data Structures,Intermediate,149.0,English,3,54075,Self-paced on your time,Computer Science
+edX,The International Monetary Fund,"Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis",Intermediate,25.0,English,5,31024,Self-paced on your time,Economics & Finance
+edX,Waseda University,IoT System Design: Software and Hardware Integration,Intermediate,99.0,English,2,13608,Self-paced on your time,Computer Science
+edX,The Hong Kong University of Science and Technology,English for Doing Business in Asia – Writing,Beginner,60.0,English,4,44252,Self-paced on your time,Humanities
+edX,The University of Queensland,Working in Teams: A Practical Guide,Beginner,49.0,English,4,43981,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,Introducción a los encofrados y las cimbras en obra civil y edificación,Beginner,50.0,Español,1,16029,Self-paced on your time,Engineering
+edX,IBM,AI Chatbots without Programming,Beginner,99.0,English,4,35440,Self-paced on your time,Computer Science
+edX,Tecnológico de Monterrey,Introducción a la Ciencia de Datos y el Big Data,Intermediate,49.0,Español,4,16268,Self-paced on your time,Data Analysis & Statistics
+edX,Massachusetts Institute of Technology,Just Money: Banking as if Society Mattered,Beginner,49.0,English,5,25553,Self-paced on your time,Business & Management
+edX,Universidades Anáhuac,Introducción a R,Beginner,49.0,Español,1,6431,Self-paced on your time,Data Analysis & Statistics
+edX,The Georgia Institute of Technology,Computing in Python IV: Objects & Algorithms,Beginner,99.0,English,2,28112,Self-paced on your time,Computer Science
+edX,Pontificia Universidad Javeriana,Adobe Illustrator: aprende a crear presentaciones de impacto,Beginner,15.0,Español,4,18613,Self-paced on your time,Design
+edX,The Smithsonian Institution,Teaching Critical Thinking through Art with the National Gallery of Art,Beginner,25.0,English,2,18595,Self-paced on your time,Education & Teacher Training
+edX,Universitat Politècnica de Valencia,Word intermedio: herramientas de formato y productividad,Intermediate,50.0,Español,4,10265,Self-paced on your time,Computer Science
+edX,Universidad del Rosario,Introducción a las finanzas: Principios de valoración,Intermediate,49.0,Español,5,17344,Self-paced on your time,Economics & Finance
+edX,Universidad Nacional de Córdoba,Aprende a diseñar jardines verticales y cuadros vivos,Beginner,29.0,Español,5,6341,Self-paced on your time,Biology & Life Sciences
+edX,The University of Michigan,"Anatomy: Cardiovascular, Urinary, and Respiratory Systems",Beginner,49.0,English,4,36917,Self-paced on your time,Biology & Life Sciences
+edX,University of British Columbia,Software Engineering: Introduction,Advanced,125.0,English,2,35524,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,Structure of Materials,Intermediate,150.0,English,5,13042,Self-paced on your time,Engineering
+edX,Universidad del Rosario,Fundamentos de fotografía documental,Beginner,49.0,Español,4,13036,Self-paced on your time,Art & Culture
+edX,Wellesley College,AP® Italian Language and Culture (2020-2021),Advanced,49.0,Italiano,2,39398,Self-paced on your time,Humanities
+edX,New York University,Computer Hardware and Operating Systems,Beginner,150.0,English,4,9715,Self-paced on your time,Computer Science
+edX,"The University of Maryland, College Park-University System of Maryland",Marketing Management,Advanced,214.0,English,4,43415,Instructor-led on a course schedule,Business & Management
+edX,Massachusetts Institute of Technology,You Can Innovate: User  Innovation & Entrepreneurship,Beginner,49.0,English,3,18974,Self-paced on your time,Business & Management
+edX,Columbia University,Analytics in Python,Intermediate,249.0,English,4,82210,Instructor-led on a course schedule,Business & Management
+edX,Universitat Politècnica de Valencia,Bases Matemáticas: Álgebra,Beginner,50.0,Español,3,35811,Self-paced on your time,Math
+edX,The World Wide Web Consortium (W3C),HTML5 Apps and Games,Advanced,199.0,English,4,86850,Self-paced on your time,Computer Science
+edX,École polytechnique fédérale de Lausanne,MATLAB and Octave for Beginners,Beginner,139.0,English,4,68706,Self-paced on your time,Computer Science
+edX,Rice University,AP Physics 1,Beginner,49.0,English,2,43401,Self-paced on your time,Physics
+edX,Georgetown University,The Divine Comedy: Dante's Journey to Freedom,Beginner,49.0,English,5,12005,Self-paced on your time,Humanities
+edX,Dartmouth_IMTx-Dartmouth College-IMT,Linux Basics: The Command Line Interface,Beginner,49.0,English,5,32726,Self-paced on your time,Computer Science
+edX,Babson College,Entrepreneurial Operations: Launching a Startup,Intermediate,149.0,English,2,23808,Self-paced on your time,Business & Management
+edX,Imperial College Business School-Imperial College London,Maths Essentials,Beginner,79.0,English,4,44642,Self-paced on your time,Business & Management
+edX,"University of California, Berkeley","Marketing Analytics: Products, Distribution and Sales",Intermediate,249.0,English,1,50588,Self-paced on your time,Computer Science
+edX,"The University of Maryland, College Park-University System of Maryland",Marketing Innovative Products and Services,Beginner,149.0,English,3,6293,Self-paced on your time,Business & Management
+edX,Tsinghua University,Just Reading and Writing in English | 生活英语读写,Beginner,149.0,English,5,33303,Self-paced on your time,Art & Culture
+edX,The Hong Kong University of Science and Technology,Introduction to Java Programming – Part 1,Beginner,99.0,English,4,270376,Self-paced on your time,Computer Science
+edX,Universidades Anáhuac,Comunicación y Redacción Digital,Beginner,29.0,Español,4,7165,Self-paced on your time,Communication
+edX,The International Monetary Fund,Monetary Policy Analysis and Forecasting,Advanced,25.0,English,4,6616,Self-paced on your time,Economics & Finance
+edX,The University of Tokyo,Basic Analytical Chemistry,Beginner,49.0,English,5,19010,Self-paced on your time,Chemistry
+edX,"The University of Maryland, College Park-University System of Maryland",Identifying Entrepreneurial Opportunities,Beginner,149.0,English,4,11922,Self-paced on your time,Business & Management
+edX,Harvard University,"ChinaX Book Club: Five Authors, Five Books, Five Views of China",Beginner,139.0,English,3,5855,Self-paced on your time,Literature
+edX,Australian National University,Astrophysics: Cosmology,Intermediate,50.0,English,4,83322,Self-paced on your time,Physics
+edX,Tsinghua University,Japanese Culture and Language (I) |日语与日本文化（1）,Beginner,139.0,中文,5,18489,Self-paced on your time,Art & Culture
+edX,Stanford University,COVID-19 Training for Healthcare Workers,Beginner,10.0,English,3,5742,Self-paced on your time,Medicine
+edX,The Smithsonian Institution,The Rise of Superheroes and Their Impact On Pop Culture,Beginner,50.0,English,5,31368,Self-paced on your time,Humanities
+edX,Delft University of Technology,Introduction to Aeronautical Engineering,Beginner,50.0,English,1,99971,Self-paced on your time,Engineering
+edX,Universidad Nacional de Córdoba,Diseño de Jardines,Beginner,29.0,Español,3,5683,Self-paced on your time,Biology & Life Sciences
+edX,Universidad Autónoma de Madrid,"Introducción al griego clásico: lengua, nombres y mitología",Beginner,49.0,Español,5,18849,Self-paced on your time,Language
+edX,IBM,Deep Learning Fundamentals with Keras,Intermediate,99.0,English,5,32140,Self-paced on your time,Data Analysis & Statistics
+edX,KU Leuven University,Existential Well-being Counseling: A Person-centered Experiential Approach,Beginner,49.0,English,4,48439,Self-paced on your time,Humanities
+edX,World Bank Group,Solid Waste Management,Beginner,5.0,English,4,7668,Self-paced on your time,Environmental Studies
+edX,Dartmouth College,Retail Fundamentals,Intermediate,99.0,English,5,37558,Self-paced on your time,Business & Management
+edX,Australian National University,Greatest Unsolved Mysteries of the Universe,Intermediate,50.0,English,5,93965,Self-paced on your time,Physics
+edX,NYIF,"Money Markets, Foreign Exchange and Time Value of Money",Beginner,199.0,English,3,12230,Self-paced on your time,Economics & Finance
+edX,Pontificia Universidad Javeriana,Gestión de Contenidos Digitales y Marketing Turístico de Ciudad,Beginner,49.0,Español,2,14627,Self-paced on your time,Communication
+edX,"The University of Maryland, College Park-University System of Maryland",Designing the User Experience,Beginner,199.0,English,1,6416,Self-paced on your time,Business & Management
+edX,Harvard University,Introduction to Bioconductor,Intermediate,149.0,English,4,36370,Self-paced on your time,Data Analysis & Statistics
+edX,The Wharton School of the University of Pennsylvania,Connected Strategy,Intermediate,199.0,English,3,10355,Self-paced on your time,Business & Management
+edX,Chalmers University of Technology,Hybrid Vehicles,Advanced,249.0,English,4,18294,Instructor-led on a course schedule,Engineering
+edX,Harvard University,First Nights - Handel's Messiah and Baroque Oratorio,Beginner,49.0,English,4,18029,Self-paced on your time,Humanities
+edX,Harvard University,Statistical Inference and Modeling for High-throughput Experiments,Intermediate,149.0,English,3,51590,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,First Nights - Monteverdi’s L’Orfeo and the Birth of Opera,Beginner,49.0,English,5,13300,Self-paced on your time,Humanities
+edX,Harvard University,18th-Century Opera: Handel & Mozart,Beginner,99.0,English,4,18331,Self-paced on your time,Music
+edX,Universitat Politècnica de Valencia,Introduction to video game development with Unity,Intermediate,50.0,English,3,7605,Self-paced on your time,Computer Science
+edX,Rochester Institute of Technology,Best Practices for Project Management Success,Intermediate,150.0,English,5,46610,Self-paced on your time,Business & Management
+edX,Pontificia Universidad Javeriana,Fundamentos de la Tecnología Blockchain,Beginner,49.0,Español,2,5473,Self-paced on your time,Economics & Finance
+edX,Tecnológico de Monterrey,Información financiera y su análisis,Advanced,49.0,Español,2,5473,Self-paced on your time,Economics & Finance
+edX,Imperial College London,Coaching Skills for Learner-Centred Conversations,Beginner,49.0,English,4,8089,Self-paced on your time,Education & Teacher Training
+edX,University of Pennsylvania,Intellectual Property Law and Policy: Part 1,Intermediate,169.0,English,5,43993,Self-paced on your time,Law
+edX,Columbia University,Robotics,Advanced,249.0,English,5,68199,Instructor-led on a course schedule,Computer Science
+edX,HEC Montréal,La gestion des ressources humaines,Beginner,99.0,Français,4,6824,Self-paced on your time,Business & Management
+edX,"University of California, Berkeley",Writing for Social Justice,Beginner,50.0,English,2,9927,Self-paced on your time,Humanities
+edX,Waseda University,Steps in Japanese for Beginners1 Part2,Beginner,99.0,English,4,8080,Self-paced on your time,Language
+edX,Harvard University,Case Studies in Functional Genomics,Advanced,149.0,English,4,26850,Self-paced on your time,Data Analysis & Statistics
+edX,NYIF,Essential Career Skills for Investment Banking and Finance,Beginner,49.0,English,5,11655,Self-paced on your time,Business & Management
+edX,University of Pennsylvania,Data Structures and Software Design,Intermediate,149.0,English,4,30609,Self-paced on your time,Computer Science
+edX,Catalyst,Unconscious Bias: From Awareness to Action,Beginner,49.0,English,5,26659,Self-paced on your time,Communication
+edX,Massachusetts Institute of Technology,Cybersecurity for Critical Urban Infrastructure,Advanced,100.0,English,5,5306,Self-paced on your time,Computer Science
+edX,"The University of Maryland, College Park-University System of Maryland","Agile Process, Project, and Program Controls",Advanced,199.0,English,3,16339,Self-paced on your time,Engineering
+edX,Inter-American Development Bank,Risk Management in Development Projects,Intermediate,25.0,English,1,13263,Self-paced on your time,Business & Management
+edX,Universidad Carlos III de Madrid,"Pintura europea: Leonardo, Rembrandt, Goya",Beginner,29.0,Español,5,32635,Self-paced on your time,Humanities
+edX,Columbia University,Risk & Return,Beginner,225.0,English,2,21970,Self-paced on your time,Business & Management
+edX,Delft University of Technology,Project Management of Engineering Projects: Preparing for Success,Intermediate,99.0,English,5,42834,Instructor-led on a course schedule,Business & Management
+edX,Massachusetts Institute of Technology,Supply Chain Dynamics,Advanced,299.0,English,5,75464,Instructor-led on a course schedule,Business & Management
+edX,Amazon Web Services,AWS Developer: Building on AWS,Advanced,149.0,English,5,54249,Self-paced on your time,Computer Science
+edX,Babson College,Financial Accounting Made Fun: Eliminating Your Fears,Beginner,199.0,English,3,36787,Self-paced on your time,Business & Management
+edX,Harvard University,PredictionX: John Snow and the Cholera Epidemic of 1854,Beginner,25.0,English,5,17713,Self-paced on your time,History
+edX,Universidad Nacional de Córdoba,Gestión de operaciones,Beginner,119.0,Español,1,9512,Self-paced on your time,Business & Management
+edX,Doane University,Microeconomics & Business,Beginner,79.0,English,4,10962,Self-paced on your time,Economics & Finance
+edX,IBM,Inteligencia artificial: Chatbots sin programación,Beginner,49.0,Español,3,5001,Self-paced on your time,Computer Science
+edX,Tecnológico de Monterrey,Diseño e innovación de modelo de negocios,Advanced,99.0,Español,1,7180,Self-paced on your time,Business & Management
+edX,World Bank Group,Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs),Beginner,5.0,English,2,29171,Self-paced on your time,Economics & Finance
+edX,Rochester Institute of Technology,Business Communication,Beginner,199.0,English,2,0,Self-paced on your time,Communication
+edX,Inter-American Development Bank,Gestão de riscos em projetos,Intermediate,25.0,Português,3,8771,Self-paced on your time,Business & Management
+edX,Berklee College of Music,Vocal Recording Technology,Beginner,49.0,English,3,52369,Self-paced on your time,Engineering
+edX,Inter-American Development Bank,Agua 2.0: empresas eficientes para el siglo XXI,Beginner,25.0,Español,4,0,Self-paced on your time,Business & Management
+edX,Curtin University,IoT Sensors and Devices,Beginner,199.0,English,4,33072,Self-paced on your time,Computer Science
+edX,Universitat Politècnica de Valencia,Introducción a las tecnologías para la Educación,Beginner,49.0,Español,4,31533,Self-paced on your time,Computer Science
+edX,Berklee College of Music,Fundamentos de la guitarra eléctrica y acústica,Beginner,49.0,Español,5,13124,Self-paced on your time,Music
+edX,World Bank Group,e-Learning on Digital Agriculture,Beginner,5.0,English,3,6238,Self-paced on your time,Environmental Studies
+edX,The Linux Foundation,Exploring GraphQL: A Query Language for APIs,Beginner,149.0,English,4,9503,Self-paced on your time,Computer Science
+edX,United Arab Emirates University,EmSAT English Preparation - Level 2,Intermediate,49.0,English,2,7346,Self-paced on your time,Language
+edX,IBM,The Data Science Method,Beginner,39.0,English,4,7868,Self-paced on your time,Data Analysis & Statistics
+edX,Tsinghua University,"Plato, Socrates, and the Birth of Western Philosophy | 西方哲学精神探源",Beginner,49.0,English,4,21291,Self-paced on your time,Humanities
+edX,Waseda University,"Cosmic Rays, Dark Matter, and the Mysteries of the Universe",Intermediate,49.0,English,5,12888,Self-paced on your time,Physics
+edX,The International Monetary Fund,Macroeconomic Diagnostics,Intermediate,25.0,English,2,23408,Self-paced on your time,Economics & Finance
+edX,Doane University,BioStatistics,Beginner,79.0,English,4,14937,Self-paced on your time,Biology & Life Sciences
+edX,Wits University,Results-Based Project Management: Monitoring and Evaluation,Intermediate,199.0,English,3,32810,Self-paced on your time,Business & Management
+edX,Tecnológico de Monterrey,Estrategias y estilos de negociación,Beginner,149.0,Español,2,12639,Self-paced on your time,Business & Management
+edX,Inter-American Development Bank,Políticas efectivas de desarrollo infantil,Intermediate,25.0,Español,5,64387,Self-paced on your time,Social Sciences
+edX,Salisbury University-University System of Maryland,Alzheimer’s Disease & Dementia Care,Intermediate,49.0,English,3,5763,Self-paced on your time,Medicine
+edX,University of Pennsylvania,Understanding Classroom Interaction,Beginner,49.0,English,2,27114,Self-paced on your time,Education & Teacher Training
+edX,Georgetown University,Sign Language Science: Emergence and Evolution of Sign Language,Beginner,99.0,English,4,8313,Self-paced on your time,Language
+edX,Université catholique de Louvain,International Humanitarian Law,Advanced,150.0,English,4,31419,Self-paced on your time,Law
+edX,Universidad Autónoma de Madrid,"Educación de calidad para todos: equidad, inclusión y atención a la diversidad",Beginner,49.0,Español,3,25111,Self-paced on your time,Education & Teacher Training
+edX,École polytechnique fédérale de Lausanne,Introduction to Astrophysics,Beginner,139.0,English,5,20802,Self-paced on your time,Physics
+edX,University of Hong Kong,Epidemics I,Beginner,139.0,English,3,10618,Self-paced on your time,Medicine
+edX,Universidad Autónoma de Madrid,Introducción a la genética y la evolución,Beginner,49.0,Español,1,15297,Self-paced on your time,Biology & Life Sciences
+edX,Universidad Carlos III de Madrid,Fundamentals of Macroeconomics,Beginner,129.0,English,1,17820,Self-paced on your time,Economics & Finance
+edX,University of Hong Kong,"Blockchain and FinTech: Basics, Applications, and Limitations",Beginner,199.0,English,5,22011,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,Molecular Biology - Part 2: Transcription and Transposition,Advanced,99.0,English,3,18168,Self-paced on your time,Biology & Life Sciences
+edX,SDG Academy,"One Planet, One Ocean",Intermediate,49.0,English,4,12166,Self-paced on your time,Environmental Studies
+edX,Curtin University,Reputation Management in a Digital World,Intermediate,99.0,English,4,39672,Self-paced on your time,Communication
+edX,Universidad Galileo,Google Ads: publicidad efectiva,Beginner,49.0,Español,5,12084,Self-paced on your time,Business & Management
+edX,Universitat Politècnica de Valencia,Introducción a la energía solar fotovoltaica: El módulo fotovoltaico,Intermediate,50.0,Español,3,14673,Self-paced on your time,Engineering
+edX,IBM,Computer Vision Fundamentals with Watson and OpenCV,Beginner,99.0,English,4,7032,Self-paced on your time,Computer Science
+edX,Waseda University,Japanese Business Management,Intermediate,129.0,English,5,14852,Self-paced on your time,Business & Management
+edX,IBM,Introduction to Cloud Computing,Beginner,49.0,English,5,0,Self-paced on your time,Computer Science
+edX,LOGYCA,Fundamentos de logística,Beginner,29.0,Español,4,7397,Self-paced on your time,Engineering
+edX,Delft University of Technology-Wageningen University & Research-Delft University & Wageningen University,Sustainable Urban Development,Beginner,50.0,English,2,45760,Self-paced on your time,Social Sciences
+edX,The University of Queensland,Introduction to Biomedical Imaging,Beginner,99.0,English,2,56485,Self-paced on your time,Medicine
+edX,Universidad Carlos III de Madrid,Introducción a la programación en Java: empezando a programar,Beginner,49.0,Español,5,23321,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,"Circuits and Electronics 2: Amplification, Speed, and Delay",Intermediate,169.0,English,4,9665,Self-paced on your time,Electronics
+edX,Harvard University,China’s Political and Intellectual Foundations: From Sage Kings to Confucius,Beginner,139.0,English,5,47083,Self-paced on your time,History
+edX,The Linux Foundation,Introduction to DevOps and Site Reliability Engineering,Beginner,149.0,English,4,8697,Self-paced on your time,Computer Science
+edX,IBM,SQL aplicado en la  ciencia de datos,Beginner,39.0,Español,5,0,Self-paced on your time,Data Analysis & Statistics
+edX,Georgetown University,Sign Language Science: Factors Contributing to Nature Structure,Beginner,99.0,English,3,0,Self-paced on your time,Language
+edX,The University of Iceland,Gender and Intersectionality,Beginner,50.0,English,2,0,Self-paced on your time,Humanities
+edX,"The University of Maryland, College Park-University System of Maryland",Digital Transformation in Business,Advanced,214.0,English,2,10118,Self-paced on your time,Business & Management
+edX,The Hong Kong Polytechnic University,Designing and Creating Trousers,Beginner,99.0,English,4,7544,Self-paced on your time,Design
+edX,Università degli Studi di Napoli Federico II,Introducción a la teoría política: conceptos y grandes pensadores,Beginner,59.0,Español,4,11741,Self-paced on your time,Social Sciences
+edX,SDG Academy,"Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion",Intermediate,49.0,English,4,11426,Self-paced on your time,Social Sciences
+edX,The Hong Kong Polytechnic University,Industry 4.0: How to Revolutionize your Business,Beginner,50.0,English,5,28404,Self-paced on your time,Business & Management
+edX,Inter-American Development Bank,Desafíos y oportunidades en la economía digital,Beginner,25.0,Español,5,47792,Self-paced on your time,Economics & Finance
+edX,Tecnológico de Monterrey,Pensamiento crítico: toma de decisiones razonadas,Beginner,149.0,Español,4,16853,Self-paced on your time,Business & Management
+edX,University of Adelaide,"MathTrackX: Polynomials, Functions and Graphs",Beginner,79.0,English,4,0,Self-paced on your time,Math
+edX,Wageningen University & Research,Sustainable Food Security: Crop Production,Intermediate,49.0,English,5,35367,Self-paced on your time,Biology & Life Sciences
+edX,Western Governors University,Network and Security Foundations,Beginner,299.0,English,5,7301,Self-paced on your time,Computer Science
+edX,Doane University,Cannabis Cultivation and Processing,Beginner,179.0,English,4,7419,Self-paced on your time,Environmental Studies
+edX,Columbia University,"Data, Models and Decisions in Business Analytics",Advanced,249.0,English,2,36289,Instructor-led on a course schedule,Business & Management
+edX,"The University of California, San Diego",Data Structures Fundamentals,Intermediate,99.0,English,4,42381,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,Shaping Work of the Future,Beginner,49.0,English,4,22246,Self-paced on your time,Business & Management
+edX,Universidades Anáhuac,Introducción a la robótica e industria 4.0,Beginner,49.0,Español,4,7056,Self-paced on your time,Computer Science
+edX,Columbia University,Fighting for Equality: 1950–2018,Intermediate,50.0,English,1,9274,Self-paced on your time,History
+edX,Rochester Institute of Technology,"Design Thinking: Ideation, Iteration and Communication",Intermediate,299.0,English,4,14629,Self-paced on your time,Business & Management
+edX,Tecnológico de Monterrey,Negotiation Strategies and Styles,Intermediate,149.0,English,3,0,Self-paced on your time,Business & Management
+edX,Berklee College of Music,Crear música con tecnología,Beginner,49.0,Español,2,10961,Self-paced on your time,Music
+edX,Delft University of Technology,Análisis de datos: Diseño y Visualización de Tableros,Intermediate,49.0,Español,4,18368,Self-paced on your time,Computer Science
+edX,Pontificia Universidad Javeriana,Comunicación estratégica: gestión de crisis e imagen pública,Beginner,49.0,Español,3,7017,Self-paced on your time,Communication
+edX,University of Adelaide,"Understanding Agribusiness, Value Chains, and Consumers in Global Food Systems",Intermediate,199.0,English,5,14052,Self-paced on your time,Business & Management
+edX,IsraelX-Tel Aviv University,Unlocking Information Security: Part II,Intermediate,149.0,English,5,6426,Self-paced on your time,Computer Science
+edX,Amnesty International,Human Rights Defenders,Beginner,49.0,English,4,27338,Self-paced on your time,Social Sciences
+edX,Delft University of Technology,Product Design: The Delft Design Approach,Intermediate,79.0,English,5,87539,Self-paced on your time,Business & Management
+edX,Tsinghua University,Introduction to Psychology | 心理学概论,Beginner,139.0,中文,5,30731,Self-paced on your time,Philosophy & Ethics
+edX,Massachusetts Institute of Technology,Circuits and Electronics 3: Applications,Intermediate,169.0,English,4,9347,Self-paced on your time,Electronics
+edX,KU Leuven University,Vaccines: from smallpox to technologies of the future,Intermediate,49.0,English,5,6166,Self-paced on your time,Medicine
+edX,HEC Montréal,Le management,Beginner,149.0,Français,5,6273,Self-paced on your time,Business & Management
+edX,Delft University of Technology,Circular Economy for a Sustainable Built Environment,Intermediate,50.0,English,3,8032,Self-paced on your time,Architecture
+edX,"The University of Maryland, College Park-University System of Maryland",Agile Innovation and Problem Solving Skills,Advanced,199.0,English,5,12667,Self-paced on your time,Engineering
+edX,Université catholique de Louvain,International Investment Law,Advanced,150.0,English,2,23335,Instructor-led on a course schedule,Law
+edX,Columbia University,Animation and CGI Motion,Advanced,249.0,English,4,36827,Instructor-led on a course schedule,Computer Science
+edX,Georgetown University,Terrorism and Counterterrorism,Beginner,49.0,English,2,28580,Self-paced on your time,Humanities
+edX,Université catholique de Louvain,Découvrir le marketing,Intermediate,150.0,Français,5,30030,Instructor-led on a course schedule,Business & Management
+edX,Delft University of Technology,Solar Energy: Photovoltaic (PV) Energy Conversion,Advanced,250.0,English,4,38041,Instructor-led on a course schedule,Engineering
+edX,Australian National University,Introduction to Actuarial Science,Beginner,49.0,English,5,52667,Self-paced on your time,Data Analysis & Statistics
+edX,Harvard University,PredictionX: Lost Without Longitude,Beginner,49.0,English,4,9114,Self-paced on your time,History
+edX,Western Governors University,Information Technology Foundations,Beginner,399.0,English,3,6388,Self-paced on your time,Computer Science
+edX,IBM,Introducción a la Inteligencia Artificial de Watson,Beginner,49.0,Español,2,0,Self-paced on your time,Computer Science
+edX,Delft University of Technology,Dealing with Power and Dynamics: Discover Your Leadership Style and Influence Stakeholders,Intermediate,125.0,English,4,16013,Self-paced on your time,Business & Management
+edX,University System of Maryland-University of Maryland Global Campus,Instructional Design and Technology: Learning Theories,Intermediate,299.0,English,3,21296,Instructor-led on a course schedule,Education & Teacher Training
+edX,Stanford University,"Algorithms: Design and Analysis, Part 2",Intermediate,149.0,English,4,0,Self-paced on your time,Computer Science
+edX,Rice University,The Math of Data Science: Linear Algebra,Intermediate,159.0,English,4,6746,Self-paced on your time,Math
+edX,Universidades Anáhuac,Introducción al quirófano,Intermediate,49.0,Español,4,0,Self-paced on your time,Medicine
+edX,Delft University of Technology,The Hardware of a Quantum Computer,Intermediate,79.0,English,4,20052,Self-paced on your time,Physics
+edX,Berklee College of Music,Grabar y mezclar música,Beginner,49.0,Español,3,10856,Self-paced on your time,Music
+edX,Tecnológico de Monterrey,Leadership focused on Human Flourishing,Intermediate,149.0,English,4,0,Self-paced on your time,Business & Management
+edX,Stanford University,Automata Theory,Advanced,129.0,English,1,0,Self-paced on your time,Computer Science
+edX,IBM,¡Conceptos básicos de Python para Data Science!,Beginner,49.0,Español,5,0,Self-paced on your time,Data Analysis & Statistics
+edX,Tecnológico de Monterrey,Herramientas para el Análisis de Big Data,Intermediate,49.0,Español,3,8118,Self-paced on your time,Data Analysis & Statistics
+edX,The International Monetary Fund,Foundations of Central Bank Law,Intermediate,25.0,English,4,6169,Self-paced on your time,Law
+edX,Dartmouth_IMTx-Dartmouth College-IMT,C Programming: Modular Programming and Memory Management,Beginner,49.0,English,5,18690,Self-paced on your time,Computer Science
+edX,Inter-American Development Bank,Enseñanza temprana de matemáticas y ciencias,Beginner,25.0,Español,5,8250,Self-paced on your time,Education & Teacher Training
+edX,Massachusetts Institute of Technology,Entrepreneurship 102: What can you do for your customer?,Beginner,49.0,English,3,11275,Self-paced on your time,Business & Management
+edX,Wellesley College,Italian Language and Culture: Advanced (2019-2020),Advanced,49.0,Italiano,3,24667,Self-paced on your time,Language
+edX,The University of Edinburgh,Introduction to Marketing,Beginner,149.0,English,5,0,Self-paced on your time,Business & Management
+edX,Kyoto University,Origins of the Human Mind,Beginner,49.0,English,4,11812,Self-paced on your time,Science
+edX,SchoolYourself,Introduction to Geometry,Beginner,50.0,English,4,61824,Self-paced on your time,Math
+edX,World Bank Group,The Future of Work: Preparing for Disruption,Beginner,5.0,English,4,43125,Self-paced on your time,Economics & Finance
+edX,Université de Montréal,Clinical Reasoning Process,Beginner,149.0,English,5,5367,Self-paced on your time,Medicine
+edX,Inter-American Development Bank,Datos para la efectividad de las políticas públicas,Beginner,25.0,Español,4,80425,Self-paced on your time,Data Analysis & Statistics
+edX,New York University,Media Law,Beginner,249.0,English,5,7253,Instructor-led on a course schedule,Art & Culture
+edX,Inter-American Development Bank,Líderes para la Gestión en Seguridad Ciudadana y Justicia,Intermediate,25.0,Español,1,12826,Self-paced on your time,Social Sciences
+edX,Universitat Politècnica de Valencia,"Diseña, fabrica y programa tu propio robot",Beginner,75.0,Español,4,25024,Self-paced on your time,Engineering
+edX,University of Texas at Arlington,Pivoting to Online Teaching: Research and Practitioner Perspectives,Beginner,139.0,English,2,5289,Self-paced on your time,Education & Teacher Training
+edX,Wageningen University & Research,Circular Economy: An Interdisciplinary Approach,Advanced,149.0,English,4,10281,Self-paced on your time,Business & Management
+edX,Massachusetts Institute of Technology,Calculus 1B: Integration,Intermediate,100.0,English,4,44669,Instructor-led on a course schedule,Math
+edX,"The University of California, San Diego",Algorithmic Design and Techniques,Intermediate,99.0,English,4,40620,Self-paced on your time,Computer Science
+edX,Delft University of Technology,Drinking Water Treatment,Intermediate,50.0,English,5,51918,Self-paced on your time,Engineering
+edX,Universidades Anáhuac,Fundamentos de información financiera y contable,Intermediate,49.0,Español,2,7789,Self-paced on your time,Economics & Finance
+edX,Université catholique de Louvain,Les principes de la finance,Intermediate,150.0,Français,4,44037,Self-paced on your time,Business & Management
+edX,University of Adelaide,Music Technology Foundations,Beginner,169.0,English,4,34550,Self-paced on your time,Computer Science
+edX,Babson College,The Entrepreneurial Mindset,Beginner,149.0,English,4,31077,Self-paced on your time,Business & Management
+edX,The University of Michigan,"Anatomy: Gastrointestinal, Reproductive and Endocrine Systems",Beginner,49.0,English,4,26453,Self-paced on your time,Biology & Life Sciences
+edX,NYIF,Risk Management and Credit Principles,Advanced,199.0,English,4,9028,Self-paced on your time,Economics & Finance
+edX,Waseda University,Steps in Japanese for Beginners1 Part3,Beginner,99.0,English,3,6169,Self-paced on your time,Language
+edX,Massachusetts Institute of Technology,Structural Materials: Selection and Economics,Beginner,50.0,English,4,9752,Self-paced on your time,Engineering
+edX,University of Pennsylvania,Algorithm Design and Analysis,Intermediate,149.0,English,5,39137,Self-paced on your time,Computer Science
+edX,The University of Michigan,Estructuras de Datos con Python,Beginner,49.0,Español,3,0,Self-paced on your time,Computer Science
+edX,MandarinX,Mandarin Chinese for Business,Intermediate,149.0,English,4,12384,Self-paced on your time,Language
+edX,Universitat Politècnica de Valencia,Bases Matemáticas: Números y terminología,Intermediate,50.0,Español,4,26060,Self-paced on your time,Math
+edX,IsraelX-Tel Aviv University,Arab-Islamic History: From Tribes to Empires,Beginner,149.0,English,5,17321,Self-paced on your time,Humanities
+edX,The Georgia Institute of Technology,Human-Computer Interaction I: Fundamentals & Design Principles,Beginner,99.0,English,4,9010,Self-paced on your time,Computer Science
+edX,Université catholique de Louvain,Modeling and simulation of multibody systems,Intermediate,50.0,English,5,0,Instructor-led on a course schedule,Engineering
+edX,"The University of California, San Diego",The Science of Parenting,Beginner,49.0,English,5,37538,Self-paced on your time,Social Sciences
+edX,Columbia University,Inclusive Teaching: Supporting All Students in the College Classroom,Beginner,49.0,English,3,9899,Self-paced on your time,Education & Teacher Training
+edX,Babson College,Analytics for Decision Making,Beginner,249.0,English,1,31031,Self-paced on your time,Business & Management
+edX,Universidades Anáhuac,Principios de Análisis e Instrumentos Financieros,Intermediate,49.0,Español,4,0,Self-paced on your time,Economics & Finance
+edX,The University of Queensland,Energy Principles and Renewable Energy,Advanced,375.0,English,3,19520,Instructor-led on a course schedule,Energy & Earth Sciences
+edX,Rice University,DNA: Biology’s Genetic Code,Intermediate,169.0,English,4,35162,Self-paced on your time,Biology & Life Sciences
+edX,Berklee College of Music,Music For Wellness,Beginner,49.0,English,3,19728,Self-paced on your time,Humanities
+edX,Stanford University,Mining Massive Datasets,Advanced,149.0,English,5,5311,Self-paced on your time,Computer Science
+edX,Tokyo Institute of Technology,Introduction to Electrical and Electronic Engineering - 電気電子工学入門 -,Beginner,50.0,English,5,25041,Self-paced on your time,Engineering
+edX,Universidad del Rosario,A travel by Spanish America: Spanish for beginners,Beginner,49.0,Español,3,0,Self-paced on your time,Language
+edX,Universidades Anáhuac,Introducción a la Inteligencia Artificial,Beginner,49.0,Español,3,11184,Self-paced on your time,Computer Science
+edX,Universidad Galileo,Introducción a la Inteligencia Artificial: Principales Algoritmos,Beginner,49.0,Español,5,0,Self-paced on your time,Computer Science
+edX,Amnesty International,Digital Security and Human Rights,Beginner,49.0,English,2,11443,Self-paced on your time,Social Sciences
+edX,Tecnológico de Monterrey,Critical thinking: reasoned decision making,Beginner,149.0,English,3,6923,Self-paced on your time,Business & Management
+edX,Universitat Politècnica de Valencia,Introduction to the Internet of Things,Beginner,50.0,English,1,7581,Self-paced on your time,Electronics
+edX,NYIF,Trading - Fundamentals of Technical Analysis,Beginner,199.0,English,5,0,Self-paced on your time,Economics & Finance
+edX,Universidad Autónoma de Madrid,Riñones: conoce sus funciones para mejorar tu salud y calidad de vida,Beginner,49.0,Español,1,20261,Self-paced on your time,Medicine
+edX,Rochester Institute of Technology,Design Thinking: Empathizing to Understand the Problem,Intermediate,299.0,English,5,13340,Self-paced on your time,Business & Management
+edX,Rochester Institute of Technology,Storytelling in the Workplace,Beginner,199.0,English,4,0,Self-paced on your time,Communication
+edX,"University of California, Berkeley",Marketing Analytics: Price and Promotion Analytics,Intermediate,249.0,English,2,41021,Self-paced on your time,Computer Science
+edX,IITBombay,Implementation of Data Structures,Intermediate,149.0,English,5,27761,Self-paced on your time,Computer Science
+edX,Wits University,Activism and Citizen Journalism through Media,Beginner,49.0,English,2,7460,Self-paced on your time,Communication
+edX,Chalmers University of Technology,Electric and Conventional Vehicles,Advanced,249.0,English,3,22089,Instructor-led on a course schedule,Engineering
+edX,University of Adelaide,Big Data Fundamentals,Intermediate,199.0,English,4,40106,Self-paced on your time,Computer Science
+edX,Wageningen University & Research,Sustainable Food Security: The value of systems thinking,Beginner,49.0,English,3,26600,Self-paced on your time,Biology & Life Sciences
+edX,The Hong Kong Polytechnic University,Knowledge Management and Big Data in Business,Beginner,50.0,English,5,69064,Self-paced on your time,Business & Management
+edX,Pontificia Universidad Javeriana,Uso efectivo del tiempo,Beginner,49.0,Español,5,6409,Self-paced on your time,Economics & Finance
+edX,Dartmouth_IMTx-Dartmouth College-IMT,C Programming: Pointers and Memory Management,Beginner,49.0,English,5,19171,Self-paced on your time,Computer Science
+edX,Australian National University,Astrophysics: The Violent Universe,Intermediate,50.0,English,4,65711,Self-paced on your time,Physics
+edX,ETH Zurich,Landscape Ecology,Intermediate,50.0,English,4,8644,Self-paced on your time,Environmental Studies
+edX,Curtin University,IoT Programming and Big Data,Beginner,199.0,English,5,21591,Self-paced on your time,Computer Science
+edX,Amazon Web Services,AWS: Getting Started with Cloud Security,Beginner,49.0,English,5,8192,Self-paced on your time,Computer Science
+edX,Universidad Nacional de Córdoba,Introducción a la gravedad cuántica de lazos,Beginner,50.0,Español,4,7360,Self-paced on your time,Science
+edX,Berklee College of Music,Introduction to the Music Business,Beginner,49.0,English,4,46607,Self-paced on your time,Business & Management
+edX,Universidad Autónoma de Madrid,Introducción a la programación en C: Tipos de datos y estructuras,Beginner,49.0,Español,5,13480,Self-paced on your time,Computer Science
+edX,Tecnológico de Monterrey,Visualización de Datos y Storytelling,Intermediate,49.0,Español,5,5980,Self-paced on your time,Data Analysis & Statistics
+edX,The University of Michigan,Negociación exitosa: Estrategias y habilidades esenciales (en español),Beginner,49.0,Español,2,0,Self-paced on your time,Business & Management
+edX,SDG Academy,"Feeding a Hungry Planet: Agriculture, Nutrition and Sustainability",Intermediate,49.0,English,1,10488,Self-paced on your time,Environmental Studies
+edX,Doane University,Macroeconomics - The Basics,Beginner,79.0,English,4,0,Self-paced on your time,Economics & Finance
+edX,NYIF,Fundamentals of Financial Mathematics and Capital Budgeting,Beginner,99.0,English,4,5410,Self-paced on your time,Economics & Finance
+edX,Universitat Politècnica de Valencia,Gestión participativa: motivación y liderazgo organizacional,Intermediate,79.0,Español,4,23441,Self-paced on your time,Business & Management
+edX,IBM,Herramientas de ciencia de datos: uso práctico,Beginner,39.0,Español,4,0,Self-paced on your time,Data Analysis & Statistics
+edX,Universidades Anáhuac,Bienestar para el desarrollo personal y profesional,Intermediate,29.0,Español,4,0,Self-paced on your time,Health & Safety
+edX,Tecnológico de Monterrey,Energía eléctrica: conceptos y principios básicos,Intermediate,49.0,Español,4,9762,Self-paced on your time,Engineering
+edX,The University of Queensland,Market Segmentation Analysis,Intermediate,99.0,English,4,17055,Self-paced on your time,Business & Management
+edX,Tecnológico de Monterrey,Pensamento crítico: tomada de decisões fundamentadas,Beginner,149.0,Português,1,0,Self-paced on your time,Business & Management
+edX,"University of California, Berkeley",AP® English Literature & Composition – Part 2: Poems,Beginner,49.0,English,5,5719,Self-paced on your time,Humanities
+edX,Massachusetts Institute of Technology,"Electrical, Optical & Magnetic Materials and Devices",Intermediate,150.0,English,4,16905,Self-paced on your time,Engineering
+edX,University of Hong Kong,Advanced Cardiac Imaging: Cardiac Computed Tomography (CT),Beginner,99.0,English,5,0,Self-paced on your time,Medicine
+edX,Delft University of Technology,How to Design a Successful Business Model,Beginner,99.0,English,3,33656,Self-paced on your time,Business & Management
+edX,University of British Columbia,Ecodesign for Cities and Suburbs,Beginner,99.0,English,4,28472,Self-paced on your time,Environmental Studies
+edX,ETH Zurich,Agile Software Development,Beginner,50.0,English,4,37158,Self-paced on your time,Computer Science
+edX,Universidad del Rosario,Diseño de sistemas de información gerencial para intranet con Microsoft Access,Intermediate,49.0,Español,4,9144,Self-paced on your time,Computer Science
+edX,Stanford University,Essentials of Program Strategy and Evaluation,Beginner,50.0,English,2,0,Self-paced on your time,Philanthropy
+edX,Inter-American Development Bank,Gestão de Projetos de Desenvolvimento,Beginner,49.0,Português,4,28337,Self-paced on your time,Business & Management
+edX,The University of Queensland,Innovation: From Plan to Product,Intermediate,249.0,English,4,12918,Self-paced on your time,Business & Management
+edX,New York University,Introduction to Database Queries,Beginner,166.0,English,3,0,Self-paced on your time,Computer Science
+edX,The University of Edinburgh,Climate Change: Carbon Capture and Storage,Beginner,49.0,English,5,10551,Self-paced on your time,Engineering
+edX,Stanford University,Reservoir Geomechanics,Beginner,129.0,English,4,5280,Self-paced on your time,Energy & Earth Sciences
+edX,Universidades Anáhuac,Fundamentos de administración estratégica,Intermediate,49.0,Español,5,0,Self-paced on your time,Business & Management
+edX,Waseda University,IoT System Architecture: Design and Evaluation,Beginner,99.0,English,5,5914,Self-paced on your time,Computer Science
+edX,Curtin University,Noongar Language and Culture,Beginner,139.0,English,4,10858,Self-paced on your time,Language
+edX,Massachusetts Institute of Technology,Sorting Truth From Fiction: Civic Online Reasoning,Beginner,49.0,English,3,0,Instructor-led on a course schedule,Education & Teacher Training
+edX,Wageningen University & Research,Sustainable Food Security: Food Access,Beginner,49.0,English,5,18943,Self-paced on your time,Social Sciences
+edX,Universitat Politècnica de Valencia,Bases Matemáticas: Integrales,Beginner,50.0,Español,4,23703,Self-paced on your time,Math
+edX,University of Hong Kong,Epidemics II,Beginner,139.0,English,3,8565,Self-paced on your time,Medicine
+edX,Amnesty International,Derechos humanos: Los derechos de las personas refugiadas,Beginner,49.0,Español,5,28398,Self-paced on your time,Humanities
+edX,Georgetown University,Sign Language Science: Factors Contributing to Natural Learning,Beginner,99.0,English,4,0,Self-paced on your time,Language
+edX,University of Adelaide,Big Data Analytics,Intermediate,199.0,English,3,43009,Self-paced on your time,Computer Science
+edX,Imperial College London,"A-level Mathematics for Year 13 - Course 1: Functions, Sequences and Series, and Numerical Methods",Intermediate,49.0,English,2,6594,Self-paced on your time,Math
+edX,Universitat Politècnica de Valencia,ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible,Beginner,25.0,Español,1,16028,Self-paced on your time,Social Sciences
+edX,"The University of Maryland, College Park-University System of Maryland",Achieving Product-Market Fit,Beginner,199.0,English,2,0,Self-paced on your time,Business & Management
+edX,Waseda University,Culture and Law: The East Asian Perspective,Beginner,49.0,English,4,0,Self-paced on your time,Social Sciences
+edX,NYIF,Fundamentals of Market Structure,Beginner,25.0,English,4,32049,Self-paced on your time,Economics & Finance
+edX,Columbia University,Protecting Children in Humanitarian Settings,Intermediate,50.0,English,2,7246,Self-paced on your time,Social Sciences
+edX,SDG Academy,How to Achieve the Sustainable Development Goals,Intermediate,49.0,English,3,12719,Self-paced on your time,Environmental Studies
+edX,Universidad Galileo,Aprendizaje y Enseñanza en la Era Digital,Intermediate,49.0,Español,2,16954,Self-paced on your time,Education & Teacher Training
+edX,National Research Nuclear University,From Atoms to Stars: How Physics Explains Our World,Intermediate,49.0,English,4,15914,Self-paced on your time,Physics
+edX,Stanford University,The Threat of Nuclear Terrorism,Beginner,50.0,English,4,0,Self-paced on your time,History
+edX,Tecnológico de Monterrey,Introducción a Matemáticas para Finanzas y Negocios,Advanced,49.0,Español,5,0,Self-paced on your time,Economics & Finance
+edX,Universitat Politècnica de Valencia,Ingeniería de aeropuertos: diseño del lado aire según OACI (ICAO),Intermediate,75.0,Español,4,0,Self-paced on your time,Engineering
+edX,Universidad Carlos III de Madrid,Liderazgo inclusivo,Intermediate,29.0,Español,5,0,Self-paced on your time,Business & Management
+edX,United Arab Emirates University,مساق اللّغة العربيّة,Beginner,49.0,اللغة العربية,5,0,Self-paced on your time,Language
+edX,Delft University of Technology,"Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet",Intermediate,79.0,English,2,8330,Self-paced on your time,Physics
+edX,Università degli Studi di Napoli Federico II,Contemporary Issues in World Politics,Beginner,59.0,English,4,11426,Self-paced on your time,Social Sciences
+edX,Kyoto University,More Fun with Prime Numbers,Intermediate,49.0,English,5,10604,Self-paced on your time,Math
+edX,Queen’s University,Enterprise Selling,Beginner,149.0,English,2,5020,Self-paced on your time,Business & Management
+edX,Imperial College Business School-Imperial College London,Climate Change: Financial Risks and Opportunities,Intermediate,79.0,English,3,9977,Self-paced on your time,Economics & Finance
+edX,Universidad Carlos III de Madrid,Caer o No caer. El Secreto de las Estructuras.,Beginner,29.0,Español,4,20939,Self-paced on your time,Engineering
+edX,MandarinX,Mandarin Chinese Level 2,Beginner,149.0,English,1,8784,Self-paced on your time,Language
+edX,Rochester Institute of Technology,Design Thinking: Prototyping and User Testing,Intermediate,299.0,English,3,10769,Self-paced on your time,Business & Management
+edX,Universitat Politècnica de Valencia,Bases Matemáticas: Derivadas,Beginner,50.0,Español,3,24301,Self-paced on your time,Math
+edX,Universitat Politècnica de Valencia,Buscar en Internet,Beginner,49.0,Español,5,27320,Self-paced on your time,Computer Science
+edX,University of Pennsylvania,Big Data and Education,Advanced,169.0,English,1,14909,Self-paced on your time,Data Analysis & Statistics
+edX,Chalmers University of Technology,Model-Based Automotive Systems Engineering,Advanced,249.0,English,5,13857,Instructor-led on a course schedule,Engineering
+edX,The Linux Foundation,Introduction to Hyperledger Blockchain Technologies,Beginner,199.0,English,5,138884,Self-paced on your time,Business & Management
+edX,University of Adelaide,MathTrackX: Integral Calculus,Beginner,79.0,English,4,0,Self-paced on your time,Math
+edX,Delft University of Technology,Solar Energy Engineering: Comprehensive Exams,Advanced,250.0,English,2,0,Self-paced on your time,Engineering
+edX,NYIF,Mercados de capital y participantes claves,Beginner,49.0,Español,5,7210,Self-paced on your time,Economics & Finance
+edX,Universitat Politècnica de Valencia,Introducción al desarrollo de videojuegos con Unity,Intermediate,50.0,Español,5,27474,Self-paced on your time,Computer Science
+edX,Imperial College London,Incorporating Renewable Energy in Electricity Grids,Intermediate,49.0,English,5,10430,Self-paced on your time,Energy & Earth Sciences
+edX,Universidad Galileo,Herramientas de la Inteligencia de Negocios,Beginner,49.0,Español,4,24130,Self-paced on your time,Data Analysis & Statistics
+edX,Salisbury University-University System of Maryland,Overview & Management of Parkinson’s Disease,Intermediate,49.0,English,5,0,Self-paced on your time,Medicine
+edX,Universidades Anáhuac,Conociendo los costos,Intermediate,49.0,Español,5,0,Self-paced on your time,Economics & Finance
+edX,"The University of Maryland, College Park-University System of Maryland",Sprint Planning for Faster Agile Team Delivery,Advanced,199.0,English,4,10654,Self-paced on your time,Engineering
+edX,Delft University of Technology,Introduction to Water and Climate,Intermediate,50.0,English,5,36320,Self-paced on your time,Engineering
+edX,The University of Iceland,The Medieval Icelandic Sagas,Intermediate,50.0,English,5,11176,Self-paced on your time,Humanities
+edX,Rochester Institute of Technology,Visual Presentation,Beginner,199.0,English,3,0,Self-paced on your time,Communication
+edX,The University of Michigan,Community Engagement: Collaborating for Change,Beginner,49.0,English,2,11818,Self-paced on your time,Social Sciences
+edX,Universitat Politècnica de Valencia,Introducción al Internet de las Cosas (IoT),Beginner,50.0,Español,4,6322,Self-paced on your time,Electronics
+edX,University System of Maryland-University of Maryland Global Campus,"Proteins: Alignment, Analysis and Structure",Advanced,249.0,English,2,23560,Instructor-led on a course schedule,Biology & Life Sciences
+edX,IBM,AI Applications with Watson,Intermediate,99.0,English,5,9173,Self-paced on your time,Computer Science
+edX,Rochester Institute of Technology,Data Analytics and Visualization in Health Care,Advanced,249.0,English,4,7304,Self-paced on your time,Data Analysis & Statistics
+edX,The University of Queensland,Question Everything: Scientific Thinking in Real Life,Beginner,59.0,English,5,34279,Self-paced on your time,Math
+edX,Doane University,Introduction to Lifestyle Medicine,Beginner,79.0,English,5,9002,Self-paced on your time,Biology & Life Sciences
+edX,The University of Michigan,"Social Work Practice with Individuals, Families, and Small Groups",Advanced,199.0,English,4,16134,Self-paced on your time,Social Sciences
+edX,Tsinghua University,Gateway to Medicine: An Introduction to the Field of Medicine|走近医学,Beginner,49.0,中文,1,6938,Self-paced on your time,Medicine
+edX,Columbia University,Indian & Tibetan River of Buddhism,Intermediate,49.0,English,3,6738,Self-paced on your time,Humanities
+edX,Universidad Nacional de Córdoba,Compostaje Orgánico en Casa,Beginner,29.0,Español,2,0,Instructor-led on a course schedule,Environmental Studies
+edX,Babson College,Financial Analysis for Decision Making,Beginner,199.0,English,4,39156,Self-paced on your time,Business & Management
+edX,Doane University,Lifestyle Medicine Treatments of Chronic Disease – Part 1,Intermediate,179.0,English,4,5668,Self-paced on your time,Medicine
+edX,Amazon Web Services,Building Containerized Applications on AWS,Intermediate,99.0,English,4,6128,Self-paced on your time,Computer Science
+edX,"The University of Maryland, College Park-University System of Maryland",Effective Communication for Program and Project Stakeholders and Teams,Beginner,199.0,English,1,0,Self-paced on your time,Business & Management
+edX,DelftXRWTHx-Delft University of Technology-RWTH Aachen University,Biobased Products for a Sustainable (Bio)economy,Beginner,50.0,English,3,6951,Self-paced on your time,Biology & Life Sciences
+edX,The University of Michigan,Social Work Practice: Advocating Social Justice and Change,Beginner,49.0,English,2,19603,Self-paced on your time,Social Sciences
+edX,The University of Queensland,Anthropology of Current World Issues,Beginner,99.0,English,5,44821,Instructor-led on a course schedule,Humanities
+edX,Curtin University,Buyer Behaviour and Analysis,Advanced,199.0,English,4,19717,Instructor-led on a course schedule,Communication
+edX,The University of Queensland,Idea Development: Create and Implement Innovative Ideas,Intermediate,249.0,English,4,11501,Self-paced on your time,Business & Management
+edX,Massachusetts Institute of Technology,Analysis of Transport Phenomena I: Mathematical Methods,Advanced,149.0,English,3,9169,Instructor-led on a course schedule,Engineering
+edX,The University of Queensland,Leading the Organization,Intermediate,249.0,English,4,14998,Self-paced on your time,Business & Management
+edX,The International Monetary Fund,"Financial Programming and Policies, Part 2: Program Design",Intermediate,25.0,English,3,19330,Self-paced on your time,Economics & Finance
+edX,The Linux Foundation,Introduction to Open Source Networking Technologies,Beginner,169.0,English,4,17436,Self-paced on your time,Computer Science
+edX,Université de Montréal,Deep Learning Essentials,Intermediate,149.0,English,3,5018,Self-paced on your time,Computer Science
+edX,Universidad Galileo,Estadística Aplicada a los Negocios,Beginner,49.0,Español,4,25295,Self-paced on your time,Data Analysis & Statistics
+edX,"University of California, Berkeley","English for Journalists, Part 2",Intermediate,49.0,English,4,22814,Self-paced on your time,Communication
+edX,Cornell University,Teaching & Learning in the Diverse Classroom,Beginner,99.0,English,4,7104,Instructor-led on a course schedule,Education & Teacher Training
+edX,Universidad Carlos III de Madrid,Fundamentals of Microeconomics | Fundamentos de Microeconomía,Beginner,129.0,English,3,18456,Self-paced on your time,Social Sciences
+edX,Amazon Web Services,Migrating to the AWS Cloud,Intermediate,49.0,English,4,0,Self-paced on your time,Computer Science
+edX,Curtin University,IoT Networks and Protocols,Beginner,199.0,English,4,22136,Self-paced on your time,Computer Science
+edX,Stanford University,"American Prophet: The Inner Life and Global Vision of Martin Luther King, Jr.",Beginner,50.0,English,2,0,Self-paced on your time,History
+edX,Harvard University,China’s First Empires and the Rise of Buddhism,Beginner,139.0,English,4,46053,Self-paced on your time,History
+edX,Pontificia Universidad Javeriana,Apnea y Trastornos del Sueño,Beginner,49.0,Español,5,14902,Self-paced on your time,Health & Safety
+edX,Inter-American Development Bank,Educación sobre el cambio climático,Beginner,25.0,Español,2,23253,Self-paced on your time,Education & Teacher Training
+edX,Massachusetts Institute of Technology,Quantum Mechanics: A First Course,Advanced,149.0,English,3,0,Instructor-led on a course schedule,Physics
+edX,Delft University of Technology,Urban Sewage Treatment,Intermediate,50.0,English,3,40408,Self-paced on your time,Engineering
+edX,University of Hong Kong,Doing Gender and Why it Matters,Beginner,99.0,English,5,6826,Self-paced on your time,Social Sciences
+edX,Berklee College of Music,Producción musical y su efecto en la composición,Beginner,49.0,Español,4,7869,Self-paced on your time,Music
+edX,The Hong Kong University of Science and Technology,"Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors",Intermediate,70.0,English,2,12425,Self-paced on your time,Electronics
+edX,Harvard University,"19th-Century Opera: Meyerbeer, Wagner, & Verdi",Beginner,99.0,English,4,9340,Self-paced on your time,Music
+edX,Universidades Anáhuac,Modelos predictivos con Machine Learning,Intermediate,49.0,Español,2,5102,Self-paced on your time,Computer Science
+edX,Indian Institute of Management Bangalore,Quantitative Marketing Research,Beginner,50.0,English,4,0,Self-paced on your time,Business & Management
+edX,Université catholique de Louvain,Les fondements de la stratégie d’entreprise,Beginner,150.0,Français,3,33021,Instructor-led on a course schedule,Business & Management
+edX,Delft University of Technology,Solar Energy: Integration of Photovoltaic Systems in Microgrids,Advanced,250.0,English,5,20068,Instructor-led on a course schedule,Engineering
+edX,Delft University of Technology,"Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability",Intermediate,99.0,English,5,12630,Self-paced on your time,Computer Science
+edX,The Georgia Institute of Technology,Probability and Statistics I:  A Gentle Introduction to Probability,Intermediate,199.0,English,5,0,Self-paced on your time,Data Analysis & Statistics
+edX,Universidad Galileo,Introducción a las ecuaciones diferenciales,Intermediate,49.0,Español,2,9868,Self-paced on your time,Math
+edX,Rolls-Royce,Agile Mindset Introduction,Beginner,49.0,English,5,0,Self-paced on your time,Data Analysis & Statistics
+edX,The University of Queensland,Tropical coastal ecosystems,Beginner,99.0,English,4,23031,Self-paced on your time,Biology & Life Sciences
+edX,Harvard University,Modern China’s Foundations: The Manchus and the Qing,Beginner,139.0,English,5,47166,Self-paced on your time,History
+edX,IBM,El método de ciencia de datos,Beginner,39.0,Español,5,0,Self-paced on your time,Data Analysis & Statistics
+edX,Amazon Web Services,AWS Developer: Deploying on AWS,Advanced,149.0,English,1,25244,Self-paced on your time,Computer Science
+edX,ETH Zurich,Autonomous Mobile Robots,Intermediate,50.0,English,1,62362,Self-paced on your time,Computer Science
+edX,Inter-American Development Bank,Gestión por resultados para gobiernos subnacionales,Beginner,25.0,Español,5,65955,Self-paced on your time,Business & Management
+edX,The University of Texas of the Permian Basin,Introduction to Sociology,Beginner,139.0,English,2,10412,Self-paced on your time,Social Sciences
+edX,Pontificia Universidad Javeriana,Transformación digital en las empresas,Beginner,49.0,Español,5,0,Self-paced on your time,Business & Management
+edX,Inter-American Development Bank,Desafios e oportunidades na economia digital,Beginner,25.0,Português,4,6913,Self-paced on your time,Economics & Finance
+edX,Massachusetts Institute of Technology,"Cellular Solids Part 1: Structures, Properties and Engineering Applications",Advanced,99.0,English,4,7186,Self-paced on your time,Engineering
+edX,Kyoto University,Introduction to Statistical Methods for Gene Mapping,Advanced,49.0,English,4,15419,Self-paced on your time,Data Analysis & Statistics
+edX,Universidad Autónoma de Madrid,Cómo vivir una vida saludable y activa,Beginner,49.0,Español,2,8990,Self-paced on your time,Social Sciences
+edX,MandarinX,Mandarin Chinese Level 3,Intermediate,149.0,English,4,8418,Self-paced on your time,Language
+edX,Stanford University,Databases: Advanced Topics in SQL,Beginner,50.0,English,5,0,Self-paced on your time,Computer Science
+edX,Inter-American Development Bank,Data for Effective Policy Making,Beginner,25.0,English,4,13797,Self-paced on your time,Math
+edX,Dartmouth_IMTx-Dartmouth College-IMT,C Programming: Using Linux Tools and Libraries,Intermediate,49.0,English,4,13912,Self-paced on your time,Computer Science
+edX,Technische Universität München,Lernen objekt-orientierter Programmierung,Beginner,49.0,Deutsch,4,10657,Instructor-led on a course schedule,Computer Science
+edX,University of Washington,Cybersecurity: The CISO's View,Beginner,199.0,English,5,21507,Self-paced on your time,Computer Science
+edX,Red Hat,Fundamentals of Java EE Development,Intermediate,99.0,English,2,10129,Self-paced on your time,Computer Science
+edX,University System of Maryland-University of Maryland Global Campus,"Instructional Design: Digital Media, New Tools and Technology",Intermediate,299.0,English,3,16419,Self-paced on your time,Education & Teacher Training
+edX,Massachusetts Institute of Technology,Molecular Biology – Part 3: RNA Processing and Translation,Advanced,99.0,English,2,16520,Self-paced on your time,Biology & Life Sciences
+edX,The Smithsonian Institution,Power and Responsibility: Doing Philosophy with Superheroes,Beginner,49.0,English,5,8517,Self-paced on your time,Art & Culture
+edX,Universitat Politècnica de Valencia,Aprendizaje automático y ciencia de datos,Intermediate,50.0,Español,3,13994,Self-paced on your time,Computer Science
+edX,Delft University of Technology,Sustainable Urban Freight Transport: A Global Perspective,Beginner,50.0,English,2,7769,Self-paced on your time,Engineering
+edX,University of Adelaide,MathTrackX: Statistics,Beginner,79.0,English,5,0,Self-paced on your time,Math
+edX,Universitat Politècnica de Valencia,Técnicas Cuantitativas y Cualitativas para la Investigación,Intermediate,65.0,Español,5,29885,Self-paced on your time,Data Analysis & Statistics
+edX,University of Washington,Strategic Applications of IT Project & Program Management,Beginner,199.0,English,2,17914,Self-paced on your time,Business & Management
+edX,Harvard University,Advanced Bioconductor,Advanced,149.0,English,2,26063,Self-paced on your time,Data Analysis & Statistics
+edX,Stanford University,What Every Provider Should Know: Clinical Fundamentals,Beginner,50.0,English,4,0,Self-paced on your time,Medicine
+edX,Pontificia Universidad Javeriana,Análisis e interpretación de información económica y financiera,Intermediate,49.0,Español,2,5891,Self-paced on your time,Economics & Finance
+edX,Amazon Web Services,AWS IoT: Developing and Deploying an Internet of Things,Intermediate,99.0,English,5,8884,Self-paced on your time,Computer Science
+edX,SDG Academy,Measuring Sustainable Development,Intermediate,25.0,English,2,0,Self-paced on your time,Data Analysis & Statistics
+edX,The University of Texas at Austin,Embedded Systems - Shape The World: Multi-Threaded Interfacing,Intermediate,49.0,English,4,27814,Self-paced on your time,Computer Science
+edX,University of Hong Kong,Hong Kong Cinema through a Global Lens | 全球化下的香港电影,Beginner,50.0,English,4,12458,Instructor-led on a course schedule,Humanities
+edX,École polytechnique fédérale de Lausanne,Image Processing and Analysis for Life Scientists,Intermediate,199.0,English,4,8621,Self-paced on your time,Data Analysis & Statistics
+edX,Universidad Autónoma de Madrid,La protección del menor,Beginner,49.0,Español,2,7654,Self-paced on your time,Law
+edX,SDG Academy,Globalization: Past and Future,Beginner,25.0,English,5,10127,Self-paced on your time,History
+edX,The Smithsonian Institution,Star Trek: Inspiring Culture and Technology,Beginner,40.0,English,3,6521,Self-paced on your time,History
+edX,Inter-American Development Bank,Qué funciona en educación: políticas educativas basadas en evidencia,Beginner,25.0,Español,2,15701,Self-paced on your time,Education & Teacher Training
+edX,IBM,"Introduction to Cloud Development with HTML5, CSS3, and JavaScript",Beginner,99.0,English,5,0,Self-paced on your time,Computer Science
+edX,Massachusetts Institute of Technology,Tools for Academic Engagement in Public Policy,Beginner,199.0,English,4,5035,Self-paced on your time,Communication
+edX,Wits University,Theory of Change for Development,Beginner,199.0,English,5,10736,Self-paced on your time,Social Sciences
+edX,Tokyo Institute of Technology,Monozukuri: Making Things,Beginner,49.0,English,4,0,Self-paced on your time,Engineering
+edX,Davidson College,Drug Discovery & Medicinal Chemistry,Intermediate,99.0,English,2,0,Self-paced on your time,Medicine
+edX,University of Hong Kong,Digital Biomaterials,Beginner,149.0,English,2,0,Self-paced on your time,Medicine
+edX,SDG Academy,Natural Resources for Sustainable Development,Intermediate,49.0,English,5,9668,Self-paced on your time,Energy & Earth Sciences
+edX,Dartmouth College,Omnichannel Strategy and Management,Intermediate,99.0,English,5,15860,Self-paced on your time,Business & Management
+edX,Doane University,General Overview of Cannabis and the Industry’s Outlook and Professions,Beginner,199.0,English,2,5048,Self-paced on your time,Environmental Studies
+edX,Amazon Web Services,Amazon SageMaker: Simplifying Machine Learning Application Development,Intermediate,99.0,English,2,11765,Self-paced on your time,Computer Science
+edX,Universitat Politècnica de Valencia,Formulación y nomenclatura de compuestos químicos,Beginner,49.0,Español,5,12748,Self-paced on your time,Chemistry
+edX,LOGYCA,Introducción a la factura electrónica,Intermediate,49.0,Español,4,5829,Self-paced on your time,Economics & Finance
+edX,Columbia University,Demand and Supply Analytics,Intermediate,249.0,English,3,23585,Instructor-led on a course schedule,Business & Management
+edX,IMT,Advanced Algorithmics and Graph Theory with Python,Intermediate,49.0,English,4,13502,Self-paced on your time,Computer Science
+edX,Tokyo Institute of Technology,Modern Japanese Architecture Part 1: From Meiji Restoration to the Pacific War,Intermediate,59.0,English,1,0,Self-paced on your time,Architecture
+edX,Universitat Politècnica de Valencia,Diagramas UML estructurales para la Ingeniería del Software,Beginner,50.0,Español,4,5820,Self-paced on your time,Computer Science
+edX,Imperial College London,"A-level Mathematics for Year 12 - Course 2: Calculus, Newton’s Laws and Hypothesis Testing",Intermediate,49.0,English,5,6232,Self-paced on your time,Math
+edX,Universitat Politècnica de Valencia,Fundamentos de Mecánica para Ingeniería,Beginner,49.0,Español,5,14219,Self-paced on your time,Physics
+edX,University of Washington,Leadership and Management for PM Practitioners in IT,Beginner,199.0,English,4,21949,Self-paced on your time,Business & Management
+edX,Massachusetts Institute of Technology,Entrepreneurship 103: Show Me The Money,Beginner,300.0,English,1,15184,Self-paced on your time,Business & Management
+edX,Universidad Carlos III de Madrid,Historia de la ética,Beginner,29.0,Español,4,9383,Self-paced on your time,Philosophy & Ethics
+edX,Wageningen University & Research,Drainage in Agriculture: controlling water and salt levels in the soil,Advanced,49.0,English,4,0,Self-paced on your time,Environmental Studies
+edX,Universitat Politècnica de Valencia,Radio para internet con Podcast: creación y conceptos básicos,Beginner,50.0,Español,2,6460,Self-paced on your time,Communication
+edX,Universidad Galileo,Introducción a los circuitos eléctricos,Intermediate,49.0,Español,5,11953,Self-paced on your time,Electronics
+edX,Davidson Next,AP® Physics 1: Challenging Concepts,Beginner,49.0,English,3,12145,Self-paced on your time,Physics
+edX,The Hong Kong University of Science and Technology,Introduction to Java Programming – Part 2,Beginner,99.0,English,4,71203,Self-paced on your time,Computer Science
+edX,Davidson Next,AP® Macroeconomics,Beginner,49.0,English,4,29433,Self-paced on your time,Economics & Finance
+edX,Inter-American Development Bank,Climate Change Education,Beginner,25.0,English,4,12056,Self-paced on your time,Education & Teacher Training
+edX,Universidad Autónoma de Madrid,"Introducción al griego clásico: verbos, oraciones y filosofía",Beginner,49.0,Español,5,0,Self-paced on your time,Language
+edX,IBM,Applied Deep Learning Capstone Project,Advanced,99.0,English,5,8429,Self-paced on your time,Data Analysis & Statistics
+edX,University of Hong Kong,FinTech Ethics and Risks,Beginner,199.0,English,4,10696,Self-paced on your time,Economics & Finance
+edX,Tsinghua University,User Experience (UX) Design: Human Factors and Culture in Design | 设计的人因与文化,Advanced,139.0,English,1,23828,Self-paced on your time,Engineering
+edX,Universidad Carlos III de Madrid,The Conquest of Space: Space Exploration and Rocket Science,Beginner,129.0,English,3,19926,Self-paced on your time,Engineering
+edX,Wageningen University & Research,Business Strategy and Operations in a Biobased Economy,Advanced,149.0,English,4,0,Self-paced on your time,Business & Management
+edX,Inter-American Development Bank,What Works in Education: Evidence-Based Education Policies,Beginner,25.0,English,5,5540,Self-paced on your time,Education & Teacher Training
+edX,Delft University of Technology,Electric Cars: Business,Intermediate,50.0,English,5,14199,Self-paced on your time,Business & Management
+edX,Massachusetts Institute of Technology,Thermodynamics of Materials,Intermediate,150.0,English,2,0,Self-paced on your time,Engineering
+edX,Massachusetts Institute of Technology,Mechanics: Momentum and Energy,Intermediate,49.0,English,5,14846,Self-paced on your time,Physics
+edX,Delft University of Technology-Wageningen University & Research-Delft University & Wageningen University,Co-Creating Sustainable Cities,Advanced,49.0,English,4,12415,Self-paced on your time,Social Sciences
+edX,Universidad Autónoma de Madrid,Cómo educar teniendo en cuenta la muerte,Beginner,49.0,Español,4,0,Self-paced on your time,Education & Teacher Training
+edX,Kyoto University,Introduction to Animal Ethics,Beginner,49.0,English,5,6608,Self-paced on your time,Philosophy & Ethics
+edX,Rochester Institute of Technology,Teamwork & Collaboration,Beginner,199.0,English,4,0,Self-paced on your time,Communication
+edX,The University of Michigan,Grant Writing and Crowdfunding for Public Libraries,Beginner,49.0,English,4,12853,Self-paced on your time,Humanities
+edX,The University of Michigan-Microsoft Education,Leading Ambitious Teaching and Learning,Advanced,199.0,English,3,24273,Self-paced on your time,Education & Teacher Training
+edX,"The University of Maryland, College Park-University System of Maryland",Financing Innovative Ventures,Beginner,149.0,English,2,0,Self-paced on your time,Business & Management
+edX,Imperial College London,"A-level Mathematics for Year 13 - Course 2: General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations",Intermediate,49.0,English,4,0,Self-paced on your time,Math
+edX,New York University,Theories of Media and Technology,Beginner,249.0,English,1,0,Instructor-led on a course schedule,Art & Culture
+edX,Universitat Politècnica de Valencia,Introducción a la Estructura de la Materia,Beginner,25.0,Español,4,11859,Self-paced on your time,Chemistry
+edX,Ural Federal University,"Batteries, Fuel Cells, and their Role in Modern Society",Beginner,49.0,English,4,11865,Self-paced on your time,Science
+edX,Catalyst,Communication Skills for Dialoguing Across Difference,Beginner,25.0,English,5,60943,Self-paced on your time,Communication
+edX,Curtin University,Social Media: How Media Got Social,Beginner,139.0,English,3,13616,Self-paced on your time,Communication
+edX,University of Washington,"Portfolio Management, Governance, & the PMO",Beginner,199.0,English,4,17299,Self-paced on your time,Business & Management
+edX,edX,edX101: Overview of Creating an edX Course,Beginner,99.0,English,2,22327,Self-paced on your time,Education & Teacher Training
+edX,Universidad Autónoma de Madrid,"Soy docente, ¡qué miedo! Gestiona eficazmente tus emociones",Beginner,49.0,Español,4,0,Self-paced on your time,Education & Teacher Training
+edX,"The University of Maryland, College Park-University System of Maryland",Data Analysis for Decision Making,Advanced,214.0,English,4,8342,Instructor-led on a course schedule,Business & Management
+edX,KU Leuven University,UML Class Diagrams for Software Engineering,Beginner,49.0,English,2,33710,Self-paced on your time,Computer Science
+edX,Boston University,Driving Digital Innovation through Experimentation,Advanced,399.0,English,3,16904,Instructor-led on a course schedule,Computer Science
+edX,The International Monetary Fund,Compilation Basics for Macroeconomic Statistics,Beginner,25.0,English,2,6570,Self-paced on your time,Data Analysis & Statistics
+edX,Inter-American Development Bank,Seguridad Vial en América Latina y el Caribe: de la teoría a la acción,Beginner,25.0,Español,4,20189,Self-paced on your time,Engineering
+edX,Wageningen University & Research,From Fossil Resources to Biomass: A Chemistry Perspective,Advanced,149.0,English,3,5464,Self-paced on your time,Energy & Earth Sciences
+edX,Wits University,System Dynamics for Health Sciences,Intermediate,139.0,English,2,15157,Self-paced on your time,Medicine
+edX,Universidad del Rosario,Internet de las cosas (IoT) y Big Data,Intermediate,49.0,Español,5,0,Self-paced on your time,Data Analysis & Statistics
+edX,Tecnológico de Monterrey,Introducción a Ciencias de Datos y Estadística Básica para Negocios,Advanced,49.0,Español,4,0,Self-paced on your time,Data Analysis & Statistics
+edX,The University of Queensland,Introduction to Psychological Research Methods,Beginner,99.0,English,2,17087,Self-paced on your time,Humanities
+edX,Delft University of Technology,Sustainable Packaging in a Circular Economy,Intermediate,50.0,English,3,6277,Self-paced on your time,Design
+edX,Delft University of Technology,Design in Healthcare: Using Patient Journey Mapping,Beginner,129.0,English,4,17946,Self-paced on your time,Design
+edX,Universidad Nacional de Córdoba,"El manejo de plagas, malezas y enfermedades en los Sistemas de Siembra Directa",Intermediate,99.0,Español,4,0,Self-paced on your time,Biology & Life Sciences
+edX,Massachusetts Institute of Technology,"Electronic, Optical, and Magnetic Properties of Materials",Advanced,150.0,English,4,9717,Instructor-led on a course schedule,Engineering
+edX,Universidad Autónoma de Madrid,La España del Quijote,Beginner,19.0,Español,4,13277,Self-paced on your time,History
+edX,University of Adelaide,Risk Management for Projects,Beginner,199.0,English,2,22269,Self-paced on your time,Business & Management
+edX,The Smithsonian Institution,Smithsonian’s Objects That Define America,Beginner,50.0,English,2,9071,Self-paced on your time,Humanities
+edX,Harvard University,Creating Modern China: The Republican Period to the Present,Beginner,139.0,English,3,43045,Self-paced on your time,History
+edX,Université catholique de Louvain,Discover Political Science,Intermediate,50.0,English,2,6573,Instructor-led on a course schedule,Social Sciences
+edX,"University of California, Berkeley",Data Science: Inferential Thinking through Simulations,Beginner,199.0,English,4,17505,Self-paced on your time,Computer Science
+edX,University of Adelaide,Programming for Data Science,Beginner,199.0,English,4,41268,Self-paced on your time,Computer Science
+edX,The International Monetary Fund,Public Sector Debt Statistics,Intermediate,25.0,English,3,0,Self-paced on your time,Economics & Finance
+edX,Chalmers University of Technology,Sensor Fusion and Non-linear Filtering for Automotive Systems,Advanced,299.0,English,4,9709,Instructor-led on a course schedule,Engineering
+edX,Universitat Politècnica de Valencia,Creación musical con Soundcool: Introducción,Beginner,30.0,Español,5,0,Self-paced on your time,Music
+edX,Harvard University,First Nights - Berlioz’s Symphonie Fantastique and Program Music in the 19th Century,Beginner,49.0,English,4,8222,Self-paced on your time,Humanities
+edX,Delft University of Technology,The Quantum Internet and Quantum Computers: How Will They Change the World?,Beginner,50.0,English,4,15014,Self-paced on your time,Science
+edX,Wits University,Research Methods: An Engineering Approach,Beginner,169.0,English,3,20444,Self-paced on your time,Engineering
+edX,Universidad Autónoma de Madrid,Idealismo filosófico y cosmovisiones: cómo hacer mundos con ideas,Beginner,49.0,Español,5,15349,Self-paced on your time,Philosophy & Ethics
+edX,Babson College,Rise to Leadership: Become a CEO,Intermediate,199.0,English,5,16719,Self-paced on your time,Business & Management
+edX,University of Washington,Building a Cybersecurity Toolkit,Beginner,199.0,English,5,23275,Self-paced on your time,Computer Science
+edX,Universidad Galileo,Marketing your Android apps,Intermediate,49.0,English,5,0,Self-paced on your time,Engineering
+edX,Arm Education,Embedded Systems Essentials with Arm: Getting Started,Intermediate,149.0,English,3,0,Self-paced on your time,Computer Science
+edX,Curtin University,Life with Diabetes,Beginner,139.0,English,5,12318,Self-paced on your time,Medicine
+edX,University of Adelaide,Human Reproduction,Intermediate,169.0,English,4,5517,Self-paced on your time,Biology & Life Sciences
+edX,Columbia University,Enabling Technologies for Data Science and Analytics: The Internet of Things,Beginner,99.0,English,3,71290,Self-paced on your time,Computer Science
+edX,Australian National University,Astrophysics: Exploring Exoplanets,Intermediate,50.0,English,4,48539,Self-paced on your time,Physics
+edX,Stanford University,Unconventional Reservoir Geomechanics,Beginner,129.0,English,4,0,Self-paced on your time,Energy & Earth Sciences
+edX,Queen’s University,Strategic Account Management,Beginner,149.0,English,3,0,Self-paced on your time,Business & Management
+edX,IBM,PyTorch Basics for Machine Learning,Beginner,39.0,English,5,0,Self-paced on your time,Data Analysis & Statistics
+edX,Universidad Galileo,Diseño y Desarrollo de Recursos Multimedia para la Enseñanza Virtual,Intermediate,49.0,Español,2,14266,Self-paced on your time,Humanities
+edX,The Linux Foundation,Introduction to Cloud Foundry and Cloud Native Software Architecture,Beginner,169.0,English,4,24444,Self-paced on your time,Computer Science
+edX,LOGYCA,Gestión de compras eficientes para tu empresa,Beginner,25.0,Español,1,0,Self-paced on your time,Engineering
+edX,Stanford University,Know HBV And HCV,Beginner,50.0,English,3,0,Self-paced on your time,Medicine
+edX,University of Baltimore-University System of Maryland,The Supreme Court & American Politics,Beginner,29.0,English,4,6216,Self-paced on your time,Law
+edX,Queen’s University,Sales Enablement & Analytics,Beginner,149.0,English,4,0,Self-paced on your time,Business & Management
+edX,Inter-American Development Bank,Inversión Extranjera como Motor del Desarrollo para América Latina y el Caribe,Intermediate,25.0,Español,5,16423,Self-paced on your time,Business & Management
+edX,Tecnológico de Monterrey,Liderazgo en la empresa familiar,Intermediate,49.0,Español,4,10969,Self-paced on your time,Business & Management
+edX,Università degli Studi di Napoli Federico II,Comparative Political Systems,Beginner,59.0,English,3,6934,Self-paced on your time,Social Sciences
+edX,Universidad Autónoma de Madrid,Introducción al Derecho en la vida cotidiana,Beginner,49.0,Español,4,0,Self-paced on your time,Law
+edX,University System of Maryland-University of Maryland Global Campus,Cloud Computing for Enterprises,Intermediate,299.0,English,4,27241,Instructor-led on a course schedule,Computer Science
+edX,The University of Michigan,Diversity and Social Justice in Social Work,Advanced,199.0,English,5,11055,Self-paced on your time,Social Sciences
+edX,The University of Michigan,Public Library Marketing and Public Relations,Beginner,49.0,English,5,7525,Self-paced on your time,Humanities
+edX,Doane University,"Healthcare Finance, Economics and Risk",Intermediate,199.0,English,1,8006,Self-paced on your time,Economics & Finance
+edX,Universitat Politècnica de Valencia,Reacciones Químicas y Cálculos Estequiométricos,Beginner,49.0,Español,2,8907,Self-paced on your time,Chemistry
+edX,Columbia University,Seeking Women’s Rights: Colonial Period to the Civil War,Intermediate,50.0,English,4,5157,Self-paced on your time,History
+edX,edX,VideoX: Creating Video for the edX Platform,Beginner,99.0,English,5,12159,Self-paced on your time,Education & Teacher Training
+edX,Pontificia Universidad Javeriana,Comisión de la Verdad Colombia,Beginner,29.0,Español,4,0,Self-paced on your time,History
+edX,University of Adelaide,MathTrackX: Probability,Beginner,79.0,English,4,0,Self-paced on your time,Math
+edX,IsraelX,Health Informatics for better and safer healthcare,Beginner,49.0,English,5,0,Self-paced on your time,Health & Safety
+edX,Georgetown University,Sign Language Science: Factors Contributing to Natural Change,Beginner,99.0,English,2,0,Self-paced on your time,Language
+edX,NYIF,Accounting System Structure and Information Management,Beginner,50.0,English,4,0,Self-paced on your time,Economics & Finance
+edX,SDG Academy,Sustainable Development: The Post-Capitalist Order,Beginner,49.0,English,3,7031,Self-paced on your time,Economics & Finance
+edX,Doane University,"Health Law, Policy, and Advocacy",Intermediate,199.0,English,4,6358,Self-paced on your time,Law
+edX,Stanford University,Introduction to Haptics,Beginner,129.0,English,4,0,Self-paced on your time,Engineering
+edX,LOGYCA,Gestión de inventario y portafolio,Beginner,25.0,Español,4,0,Self-paced on your time,Engineering
+edX,Delft University of Technology,Understanding Nuclear Energy,Intermediate,50.0,English,4,16015,Self-paced on your time,Engineering
+edX,Catalyst,Cómo Convertirse en un Líder Exitoso (Entrenamiento de Liderazgo Inclusivo),Beginner,50.0,Español,3,11431,Self-paced on your time,Business & Management
+edX,Delft University of Technology,Decision Making Under Uncertainty: Introduction to Structured Expert Judgment,Beginner,50.0,English,2,0,Self-paced on your time,Business & Management
+edX,Davidson Next,AP® Calculus BC,Beginner,49.0,English,4,8542,Self-paced on your time,Math
+edX,The University of Texas at Austin,Advanced Linear Algebra: Foundations to Frontiers,Advanced,49.0,English,3,0,Self-paced on your time,Computer Science
+edX,University of Adelaide,Entrepreneurial Opportunities,Beginner,50.0,English,4,27182,Self-paced on your time,Business & Management
+edX,Inter-American Development Bank,Agua en América Latina: Abundancia en medio de la escasez mundial,Beginner,25.0,Español,5,38581,Self-paced on your time,Environmental Studies
+edX,Università degli Studi di Napoli Federico II,Understanding Political Concepts,Beginner,59.0,English,2,7421,Self-paced on your time,Social Sciences
+edX,University of British Columbia,How to Code: Complex Data,Beginner,125.0,English,3,34190,Self-paced on your time,Computer Science
+edX,The University of Queensland,Hypersonics – from Shock Waves to Scramjets,Advanced,99.0,English,5,19043,Self-paced on your time,Engineering
+edX,École polytechnique fédérale de Lausanne,Micro and Nanofabrication (MEMS),Advanced,199.0,English,4,16094,Self-paced on your time,Engineering
+edX,Ural Federal University,Scientific Methods and Research,Intermediate,49.0,English,4,7501,Self-paced on your time,Science
+edX,Babson College,Customer Centric Marketing for Entrepreneurs,Intermediate,149.0,English,3,14003,Self-paced on your time,Business & Management
+edX,Arizona State University,Dog Behavior: Problems and Solutions,Intermediate,169.0,English,5,16467,Self-paced on your time,Social Sciences
+edX,Curtin University,The Business of Mining,Beginner,139.0,English,4,20406,Self-paced on your time,Business & Management
+edX,The University of Michigan,"Social Work Practice in Community Organization, Management and Policy/Evaluation",Advanced,199.0,English,4,9522,Self-paced on your time,Social Sciences
+edX,Georgetown University,The Business of Aging in the Longevity Economy,Beginner,139.0,English,4,0,Self-paced on your time,Social Sciences
+edX,The University of Queensland,Understanding the Australian Health Care System,Beginner,59.0,English,2,8343,Self-paced on your time,Medicine
+edX,SDG Academy,Age of Sustainable Development,Intermediate,49.0,English,1,10019,Self-paced on your time,Social Sciences
+edX,University of Washington,Internationalization: Creating Digital Content for the World,Advanced,199.0,English,5,0,Self-paced on your time,Computer Science
+edX,Chalmers University of Technology,Multi-Object Tracking for Automotive Systems,Advanced,249.0,English,5,8581,Instructor-led on a course schedule,Engineering
+edX,Wageningen University & Research,Economics and Policies in a Biobased Economy,Advanced,149.0,English,4,0,Self-paced on your time,Energy & Earth Sciences
+edX,Doane University,Strategic Leadership in Healthcare,Intermediate,199.0,English,4,6237,Self-paced on your time,Business & Management
+edX,Georgetown University,Terrorism and Counterterrorism: An Introduction,Beginner,49.0,English,5,14128,Self-paced on your time,Humanities
+edX,Tsinghua University,Exploring Psychology's Core Concepts|走进心理学,Beginner,139.0,English,4,5741,Self-paced on your time,Social Sciences
+edX,"The University of California, San Diego",Creating Virtual Reality (VR) Apps,Intermediate,99.0,English,4,22349,Self-paced on your time,Computer Science
+edX,Universidad Galileo,Análisis Multivariable en SPSS,Beginner,49.0,Español,4,0,Self-paced on your time,Data Analysis & Statistics
+edX,Waseda University,Steps in Japanese for Beginners2 Part1,Beginner,99.0,English,4,0,Self-paced on your time,Language
+edX,Universidad Autónoma de Madrid,"Competencias para buscar, mantener y promocionar en un empleo",Beginner,49.0,Español,1,0,Self-paced on your time,Social Sciences
+edX,Universitat Politècnica de Valencia,Dynamics and Control,Beginner,50.0,English,5,27763,Self-paced on your time,Engineering
+edX,University of Washington,Finding Your Cybersecurity Career Path,Beginner,199.0,English,1,19283,Self-paced on your time,Computer Science
+edX,Universidad Carlos III de Madrid,Introducción a la caligrafía y paleografía en archivos hispanos medievales y modernos,Beginner,29.0,Español,4,12674,Self-paced on your time,Humanities
+edX,Massachusetts Institute of Technology,Mechanics: Rotational Dynamics,Intermediate,49.0,English,3,13183,Self-paced on your time,Physics
+edX,Doane University,Applying Health Coaching in Patient Care,Beginner,199.0,English,5,0,Self-paced on your time,Medicine
+edX,Stanford University,Databases: Modeling and Theory,Beginner,50.0,English,4,0,Self-paced on your time,Computer Science
+edX,The Islamic Research and Training Institute,"Islamic Banking: Principles, Practice and Risk Management",Beginner,49.0,English,5,0,Self-paced on your time,Economics & Finance
+edX,Tecnológico de Monterrey,Liderazgo orientado al florecimiento humano,Beginner,149.0,Español,2,7911,Self-paced on your time,Business & Management
+edX,University of British Columbia,Software Construction: Object-Oriented Design,Intermediate,125.0,English,1,23100,Self-paced on your time,Computer Science
+edX,The Linux Foundation,"Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa",Beginner,199.0,English,2,0,Self-paced on your time,Computer Science
+edX,Université catholique de Louvain,Fondements de l’économie sociale et solidaire,Intermediate,50.0,Français,4,0,Instructor-led on a course schedule,Social Sciences
+edX,Columbia University,The Civil War and Reconstruction - 1861 - 1865: A New Birth of Freedom,Beginner,50.0,English,2,17941,Self-paced on your time,History
+edX,RWTH Aachen University,Innovation Strategies for Electric Mobility: The StreetScooter Case,Intermediate,99.0,English,4,0,Self-paced on your time,Business & Management
+edX,Massachusetts Institute of Technology,Sustainable Energy,Advanced,149.0,English,4,0,Instructor-led on a course schedule,Energy & Earth Sciences
+edX,The University of Michigan,Designing and Leading Learning Systems,Advanced,199.0,English,4,11895,Self-paced on your time,Education & Teacher Training
+edX,Georgetown University,How the U.S. Government Works & How to Get Involved,Beginner,49.0,English,5,5930,Self-paced on your time,Social Sciences
+edX,The University of Michigan,Inspiring and Motivating Arts and Culture Teams,Beginner,49.0,English,2,10817,Self-paced on your time,Business & Management
+edX,The University of Queensland,Principles of Microeconomics: An Economist Way of Thinking,Intermediate,149.0,English,4,0,Self-paced on your time,Economics & Finance
+edX,The Hong Kong University of Science and Technology,A System View of Communications: From Signals to Packets (Part 1),Beginner,60.0,English,5,34261,Self-paced on your time,Computer Science
+edX,Harvard University,"Invasions, Rebellions, and the Fall of Imperial China",Beginner,139.0,English,4,41537,Self-paced on your time,History
+edX,"University of California, Berkeley",AP® English Literature & Composition – Part 3: Plays,Beginner,49.0,English,2,6443,Self-paced on your time,Humanities
+edX,Universitat Politècnica de Valencia,Cómo implantar grupos de mejora de procesos,Beginner,150.0,Español,5,28100,Self-paced on your time,Business & Management
+edX,Rice University,Proteins: Biology's Workforce,Intermediate,169.0,English,3,25893,Self-paced on your time,Biology & Life Sciences
+edX,Universidad Nacional de Córdoba,Introducción a los ritmos y relojes biológicos,Beginner,50.0,Español,5,6149,Self-paced on your time,Science
+edX,The Georgia Institute of Technology,Linear Algebra I: Linear Equations,Intermediate,199.0,English,1,0,Self-paced on your time,Math
+edX,École polytechnique fédérale de Lausanne,"Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications",Advanced,169.0,English,5,10205,Self-paced on your time,Engineering
+edX,Universitat Politècnica de Valencia,Fundamentos de Electromagnetismo para Ingeniería,Beginner,49.0,Español,4,15040,Self-paced on your time,Physics
+edX,SDG Academy,Sustainable Food Systems: A Mediterranean Perspective,Intermediate,49.0,English,5,6480,Self-paced on your time,Food & Nutrition
+edX,Western Governors University,Scripting and Programming Foundations,Beginner,299.0,English,4,0,Self-paced on your time,Computer Science
+edX,IBM,Using GPUs to Scale and Speed-up Deep Learning,Intermediate,99.0,English,2,9294,Self-paced on your time,Data Analysis & Statistics
+edX,edX,StudioX: Creating a Course with edX Studio,Beginner,99.0,English,1,20355,Self-paced on your time,Education & Teacher Training
+edX,Rolls-Royce,The Power of Data,Beginner,49.0,English,5,0,Self-paced on your time,Data Analysis & Statistics
+edX,Universidad Nacional de Córdoba,Introducción a las ondas gravitacionales,Beginner,50.0,Español,5,8657,Self-paced on your time,Science
+edX,University of Maryland Global Campus-University System of Maryland,Drones and Autonomous Systems 2: Applications in Emergency Management,Intermediate,149.0,English,5,0,Self-paced on your time,Science
+edX,University of Adelaide,MathTrackX: Differential Calculus,Beginner,79.0,English,2,0,Self-paced on your time,Math
+edX,Harvard University,Global China: From the Mongols to the Ming,Beginner,139.0,English,5,41902,Self-paced on your time,History
+edX,Inter-American Development Bank,Leaders in Citizen Security and Justice Management for the Caribbean,Intermediate,25.0,English,4,0,Self-paced on your time,Social Sciences
+edX,Tsinghua University,Pattern Studying and Making | 图案审美与创作,Beginner,139.0,中文,5,0,Self-paced on your time,Art & Culture
+edX,École polytechnique fédérale de Lausanne,Computational Neuroscience: Neuronal Dynamics of Cognition,Advanced,139.0,English,3,11246,Self-paced on your time,Biology & Life Sciences
+edX,SDG Academy,Cities and the Challenge of Sustainable Development,Beginner,25.0,English,4,8775,Self-paced on your time,Environmental Studies
+edX,University of Adelaide,MathTrackX: Special Functions,Beginner,79.0,English,5,0,Self-paced on your time,Math
